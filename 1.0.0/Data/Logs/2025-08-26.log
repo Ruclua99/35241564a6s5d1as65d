@@ -1,0 +1,899 @@
+00:02:52 ----------------------------------------------------------------------------------------------------
+00:02:52 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 31412/65454mb
+00:02:52 All anti-cheat hooks initialized successfully.
+00:02:52 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+00:02:53 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+00:02:53 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+00:02:53 [HCDumpListRecv] Count: 0, MaxCount: 0
+00:02:53 [HCChecksumListRecv] Count: 0, MaxCount: 0
+00:02:53 [HCInternalListRecv] Count: 0, MaxCount: 0
+00:02:53 [HCWindowListRecv] Count: 0, MaxCount: 0
+00:02:54 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+00:02:54 Blocked NtOpenProcess attempt to access our process (PID: 5064) with access rights: 0x00000410
+00:02:54 Prevented OpenProcess access to our process from PID: 5064, Process: Unknown, Access: 0x00000410
+00:02:56 [EntryProc] Initialization successful
+00:02:56 Blocked NtOpenProcess attempt to access our process (PID: 5064) with access rights: 0x00000410
+00:02:56 Prevented OpenProcess access to our process from PID: 5064, Process: Unknown, Access: 0x00000410
+00:02:56 Blocked NtOpenProcess attempt to access our process (PID: 5064) with access rights: 0x00000410
+00:02:56 Prevented OpenProcess access to our process from PID: 5064, Process: Unknown, Access: 0x00000410
+00:02:56 Blocked NtOpenProcess attempt to access our process (PID: 5064) with access rights: 0x00000410
+00:02:56 Prevented OpenProcess access to our process from PID: 5064, Process: Unknown, Access: 0x00000410
+00:02:56 Blocked NtOpenProcess attempt to access our process (PID: 5064) with access rights: 0x00000410
+00:02:56 Prevented OpenProcess access to our process from PID: 5064, Process: Unknown, Access: 0x00000410
+00:06:22 ----------------------------------------------------------------------------------------------------
+00:06:22 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 31107/65454mb
+00:06:22 All anti-cheat hooks initialized successfully.
+00:06:22 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+00:06:22 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+00:06:22 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+00:06:22 [HCDumpListRecv] Count: 0, MaxCount: 0
+00:06:22 [HCChecksumListRecv] Count: 0, MaxCount: 0
+00:06:22 [HCInternalListRecv] Count: 0, MaxCount: 0
+00:06:22 [HCWindowListRecv] Count: 0, MaxCount: 0
+00:06:23 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+00:06:23 Blocked NtOpenProcess attempt to access our process (PID: 46576) with access rights: 0x00000410
+00:06:23 Prevented OpenProcess access to our process from PID: 46576, Process: Unknown, Access: 0x00000410
+00:06:25 [EntryProc] Initialization successful
+00:06:25 Blocked NtOpenProcess attempt to access our process (PID: 46576) with access rights: 0x00000410
+00:06:25 Prevented OpenProcess access to our process from PID: 46576, Process: Unknown, Access: 0x00000410
+00:06:25 Blocked NtOpenProcess attempt to access our process (PID: 46576) with access rights: 0x00000410
+00:06:25 Prevented OpenProcess access to our process from PID: 46576, Process: Unknown, Access: 0x00000410
+00:06:25 Blocked NtOpenProcess attempt to access our process (PID: 46576) with access rights: 0x00000410
+00:06:25 Prevented OpenProcess access to our process from PID: 46576, Process: Unknown, Access: 0x00000410
+00:06:25 Blocked NtOpenProcess attempt to access our process (PID: 46576) with access rights: 0x00000410
+00:06:25 Prevented OpenProcess access to our process from PID: 46576, Process: Unknown, Access: 0x00000410
+00:11:25 Blocked NtOpenProcess attempt to access our process (PID: 46576) with access rights: 0x00000410
+00:11:25 Prevented OpenProcess access to our process from PID: 46576, Process: Unknown, Access: 0x00000410
+00:16:27 Blocked NtOpenProcess attempt to access our process (PID: 46576) with access rights: 0x00000410
+00:16:27 Prevented OpenProcess access to our process from PID: 46576, Process: Unknown, Access: 0x00000410
+00:18:29 ----------------------------------------------------------------------------------------------------
+00:18:29 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 31327/65454mb
+00:18:29 All anti-cheat hooks initialized successfully.
+00:18:29 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+00:18:30 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+00:18:30 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+00:18:30 [HCDumpListRecv] Count: 0, MaxCount: 0
+00:18:30 [HCChecksumListRecv] Count: 0, MaxCount: 0
+00:18:30 [HCInternalListRecv] Count: 0, MaxCount: 0
+00:18:30 [HCWindowListRecv] Count: 0, MaxCount: 0
+00:18:30 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+00:18:30 Blocked NtOpenProcess attempt to access our process (PID: 45572) with access rights: 0x00000410
+00:18:30 Prevented OpenProcess access to our process from PID: 45572, Process: Unknown, Access: 0x00000410
+00:18:32 [EntryProc] Initialization successful
+00:18:32 Blocked NtOpenProcess attempt to access our process (PID: 45572) with access rights: 0x00000410
+00:18:32 Prevented OpenProcess access to our process from PID: 45572, Process: Unknown, Access: 0x00000410
+00:18:32 Blocked NtOpenProcess attempt to access our process (PID: 45572) with access rights: 0x00000410
+00:18:32 Prevented OpenProcess access to our process from PID: 45572, Process: Unknown, Access: 0x00000410
+00:18:32 Blocked NtOpenProcess attempt to access our process (PID: 45572) with access rights: 0x00000410
+00:18:32 Prevented OpenProcess access to our process from PID: 45572, Process: Unknown, Access: 0x00000410
+00:18:32 Blocked NtOpenProcess attempt to access our process (PID: 45572) with access rights: 0x00000410
+00:18:32 Prevented OpenProcess access to our process from PID: 45572, Process: Unknown, Access: 0x00000410
+00:21:13 ----------------------------------------------------------------------------------------------------
+00:21:13 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 31960/65454mb
+00:21:13 All anti-cheat hooks initialized successfully.
+00:21:13 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+00:21:14 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+00:21:14 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+00:21:14 [HCDumpListRecv] Count: 0, MaxCount: 0
+00:21:14 [HCChecksumListRecv] Count: 0, MaxCount: 0
+00:21:14 [HCInternalListRecv] Count: 0, MaxCount: 0
+00:21:14 [HCWindowListRecv] Count: 0, MaxCount: 0
+00:21:15 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+00:21:15 Blocked NtOpenProcess attempt to access our process (PID: 36540) with access rights: 0x00000410
+00:21:15 Prevented OpenProcess access to our process from PID: 36540, Process: Unknown, Access: 0x00000410
+00:21:17 [EntryProc] Initialization successful
+00:21:17 Blocked NtOpenProcess attempt to access our process (PID: 36540) with access rights: 0x00000410
+00:21:17 Prevented OpenProcess access to our process from PID: 36540, Process: Unknown, Access: 0x00000410
+00:21:17 Blocked NtOpenProcess attempt to access our process (PID: 36540) with access rights: 0x00000410
+00:21:17 Prevented OpenProcess access to our process from PID: 36540, Process: Unknown, Access: 0x00000410
+00:21:17 Blocked NtOpenProcess attempt to access our process (PID: 36540) with access rights: 0x00000410
+00:21:17 Prevented OpenProcess access to our process from PID: 36540, Process: Unknown, Access: 0x00000410
+00:21:17 Blocked NtOpenProcess attempt to access our process (PID: 36540) with access rights: 0x00000410
+00:21:17 Prevented OpenProcess access to our process from PID: 36540, Process: Unknown, Access: 0x00000410
+00:26:17 Blocked NtOpenProcess attempt to access our process (PID: 36540) with access rights: 0x00000410
+00:26:17 Prevented OpenProcess access to our process from PID: 36540, Process: Unknown, Access: 0x00000410
+00:31:19 Blocked NtOpenProcess attempt to access our process (PID: 36540) with access rights: 0x00000410
+00:31:19 Prevented OpenProcess access to our process from PID: 36540, Process: Unknown, Access: 0x00000410
+00:33:16 ----------------------------------------------------------------------------------------------------
+00:33:16 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 31554/65454mb
+00:33:16 All anti-cheat hooks initialized successfully.
+00:33:16 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+00:33:17 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+00:33:17 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+00:33:17 [HCDumpListRecv] Count: 0, MaxCount: 0
+00:33:17 [HCChecksumListRecv] Count: 0, MaxCount: 0
+00:33:17 [HCInternalListRecv] Count: 0, MaxCount: 0
+00:33:17 [HCWindowListRecv] Count: 0, MaxCount: 0
+00:33:17 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+00:33:17 Blocked NtOpenProcess attempt to access our process (PID: 12360) with access rights: 0x00000410
+00:33:17 Prevented OpenProcess access to our process from PID: 12360, Process: Unknown, Access: 0x00000410
+00:33:19 [EntryProc] Initialization successful
+00:33:19 Blocked NtOpenProcess attempt to access our process (PID: 12360) with access rights: 0x00000410
+00:33:19 Prevented OpenProcess access to our process from PID: 12360, Process: Unknown, Access: 0x00000410
+00:33:19 Blocked NtOpenProcess attempt to access our process (PID: 12360) with access rights: 0x00000410
+00:33:19 Prevented OpenProcess access to our process from PID: 12360, Process: Unknown, Access: 0x00000410
+00:33:19 Blocked NtOpenProcess attempt to access our process (PID: 12360) with access rights: 0x00000410
+00:33:19 Prevented OpenProcess access to our process from PID: 12360, Process: Unknown, Access: 0x00000410
+00:33:19 Blocked NtOpenProcess attempt to access our process (PID: 12360) with access rights: 0x00000410
+00:33:19 Prevented OpenProcess access to our process from PID: 12360, Process: Unknown, Access: 0x00000410
+00:35:50 ----------------------------------------------------------------------------------------------------
+00:35:50 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 31231/65454mb
+00:35:50 All anti-cheat hooks initialized successfully.
+00:35:50 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+00:35:51 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+00:35:51 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+00:35:51 [HCDumpListRecv] Count: 0, MaxCount: 0
+00:35:51 [HCChecksumListRecv] Count: 0, MaxCount: 0
+00:35:51 [HCInternalListRecv] Count: 0, MaxCount: 0
+00:35:51 [HCWindowListRecv] Count: 0, MaxCount: 0
+00:35:52 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+00:35:52 Blocked NtOpenProcess attempt to access our process (PID: 39884) with access rights: 0x00000410
+00:35:52 Prevented OpenProcess access to our process from PID: 39884, Process: Unknown, Access: 0x00000410
+00:35:54 [EntryProc] Initialization successful
+00:35:54 Blocked NtOpenProcess attempt to access our process (PID: 39884) with access rights: 0x00000410
+00:35:54 Prevented OpenProcess access to our process from PID: 39884, Process: Unknown, Access: 0x00000410
+00:35:54 Blocked NtOpenProcess attempt to access our process (PID: 39884) with access rights: 0x00000410
+00:35:54 Prevented OpenProcess access to our process from PID: 39884, Process: Unknown, Access: 0x00000410
+00:35:54 Blocked NtOpenProcess attempt to access our process (PID: 39884) with access rights: 0x00000410
+00:35:54 Prevented OpenProcess access to our process from PID: 39884, Process: Unknown, Access: 0x00000410
+00:35:54 Blocked NtOpenProcess attempt to access our process (PID: 39884) with access rights: 0x00000410
+00:35:54 Prevented OpenProcess access to our process from PID: 39884, Process: Unknown, Access: 0x00000410
+00:38:46 ----------------------------------------------------------------------------------------------------
+00:38:46 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 32142/65454mb
+00:38:46 All anti-cheat hooks initialized successfully.
+00:38:46 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+00:38:47 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+00:38:47 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+00:38:47 [HCDumpListRecv] Count: 0, MaxCount: 0
+00:38:47 [HCChecksumListRecv] Count: 0, MaxCount: 0
+00:38:47 [HCInternalListRecv] Count: 0, MaxCount: 0
+00:38:47 [HCWindowListRecv] Count: 0, MaxCount: 0
+00:38:48 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+00:38:48 Blocked NtOpenProcess attempt to access our process (PID: 45312) with access rights: 0x00000410
+00:38:48 Prevented OpenProcess access to our process from PID: 45312, Process: Unknown, Access: 0x00000410
+00:38:50 [EntryProc] Initialization successful
+00:38:50 Blocked NtOpenProcess attempt to access our process (PID: 45312) with access rights: 0x00000410
+00:38:50 Prevented OpenProcess access to our process from PID: 45312, Process: Unknown, Access: 0x00000410
+00:38:50 Blocked NtOpenProcess attempt to access our process (PID: 45312) with access rights: 0x00000410
+00:38:50 Prevented OpenProcess access to our process from PID: 45312, Process: Unknown, Access: 0x00000410
+00:38:50 Blocked NtOpenProcess attempt to access our process (PID: 45312) with access rights: 0x00000410
+00:38:50 Prevented OpenProcess access to our process from PID: 45312, Process: Unknown, Access: 0x00000410
+00:38:50 Blocked NtOpenProcess attempt to access our process (PID: 45312) with access rights: 0x00000410
+00:38:50 Prevented OpenProcess access to our process from PID: 45312, Process: Unknown, Access: 0x00000410
+00:41:48 ----------------------------------------------------------------------------------------------------
+00:41:48 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 26837/65454mb
+00:41:48 All anti-cheat hooks initialized successfully.
+00:41:48 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+00:41:49 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+00:41:49 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+00:41:49 [HCDumpListRecv] Count: 0, MaxCount: 0
+00:41:49 [HCChecksumListRecv] Count: 0, MaxCount: 0
+00:41:49 [HCInternalListRecv] Count: 0, MaxCount: 0
+00:41:49 [HCWindowListRecv] Count: 0, MaxCount: 0
+00:41:50 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+00:41:50 Blocked NtOpenProcess attempt to access our process (PID: 14536) with access rights: 0x00000410
+00:41:50 Prevented OpenProcess access to our process from PID: 14536, Process: Unknown, Access: 0x00000410
+00:41:52 [EntryProc] Initialization successful
+00:41:52 Blocked NtOpenProcess attempt to access our process (PID: 14536) with access rights: 0x00000410
+00:41:52 Prevented OpenProcess access to our process from PID: 14536, Process: Unknown, Access: 0x00000410
+00:41:52 Blocked NtOpenProcess attempt to access our process (PID: 14536) with access rights: 0x00000410
+00:41:52 Prevented OpenProcess access to our process from PID: 14536, Process: Unknown, Access: 0x00000410
+00:41:52 Blocked NtOpenProcess attempt to access our process (PID: 14536) with access rights: 0x00000410
+00:41:52 Prevented OpenProcess access to our process from PID: 14536, Process: Unknown, Access: 0x00000410
+00:41:52 Blocked NtOpenProcess attempt to access our process (PID: 14536) with access rights: 0x00000410
+00:41:52 Prevented OpenProcess access to our process from PID: 14536, Process: Unknown, Access: 0x00000410
+00:45:21 ----------------------------------------------------------------------------------------------------
+00:45:21 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 26583/65454mb
+00:45:21 All anti-cheat hooks initialized successfully.
+00:45:21 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+00:45:22 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+00:45:22 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+00:45:22 [HCDumpListRecv] Count: 0, MaxCount: 0
+00:45:22 [HCChecksumListRecv] Count: 0, MaxCount: 0
+00:45:22 [HCInternalListRecv] Count: 0, MaxCount: 0
+00:45:22 [HCWindowListRecv] Count: 0, MaxCount: 0
+00:45:22 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+00:45:22 Blocked NtOpenProcess attempt to access our process (PID: 23700) with access rights: 0x00000410
+00:45:22 Prevented OpenProcess access to our process from PID: 23700, Process: Unknown, Access: 0x00000410
+00:45:24 [EntryProc] Initialization successful
+00:45:24 Blocked NtOpenProcess attempt to access our process (PID: 23700) with access rights: 0x00000410
+00:45:24 Prevented OpenProcess access to our process from PID: 23700, Process: Unknown, Access: 0x00000410
+00:45:24 Blocked NtOpenProcess attempt to access our process (PID: 23700) with access rights: 0x00000410
+00:45:24 Prevented OpenProcess access to our process from PID: 23700, Process: Unknown, Access: 0x00000410
+00:45:24 Blocked NtOpenProcess attempt to access our process (PID: 23700) with access rights: 0x00000410
+00:45:24 Prevented OpenProcess access to our process from PID: 23700, Process: Unknown, Access: 0x00000410
+00:45:24 Blocked NtOpenProcess attempt to access our process (PID: 23700) with access rights: 0x00000410
+00:45:24 Prevented OpenProcess access to our process from PID: 23700, Process: Unknown, Access: 0x00000410
+00:47:01 ----------------------------------------------------------------------------------------------------
+00:47:01 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 27290/65454mb
+00:47:01 All anti-cheat hooks initialized successfully.
+00:47:01 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+00:47:03 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+00:47:03 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+00:47:03 [HCDumpListRecv] Count: 0, MaxCount: 0
+00:47:03 [HCChecksumListRecv] Count: 0, MaxCount: 0
+00:47:03 [HCInternalListRecv] Count: 0, MaxCount: 0
+00:47:03 [HCWindowListRecv] Count: 0, MaxCount: 0
+00:47:03 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+00:47:03 Blocked NtOpenProcess attempt to access our process (PID: 40820) with access rights: 0x00000410
+00:47:03 Prevented OpenProcess access to our process from PID: 40820, Process: Unknown, Access: 0x00000410
+00:47:05 [EntryProc] Initialization successful
+00:47:05 Blocked NtOpenProcess attempt to access our process (PID: 40820) with access rights: 0x00000410
+00:47:05 Prevented OpenProcess access to our process from PID: 40820, Process: Unknown, Access: 0x00000410
+00:47:05 Blocked NtOpenProcess attempt to access our process (PID: 40820) with access rights: 0x00000410
+00:47:05 Prevented OpenProcess access to our process from PID: 40820, Process: Unknown, Access: 0x00000410
+00:47:05 Blocked NtOpenProcess attempt to access our process (PID: 40820) with access rights: 0x00000410
+00:47:05 Prevented OpenProcess access to our process from PID: 40820, Process: Unknown, Access: 0x00000410
+00:47:05 Blocked NtOpenProcess attempt to access our process (PID: 40820) with access rights: 0x00000410
+00:47:05 Prevented OpenProcess access to our process from PID: 40820, Process: Unknown, Access: 0x00000410
+00:52:05 Blocked NtOpenProcess attempt to access our process (PID: 40820) with access rights: 0x00000410
+00:52:05 Prevented OpenProcess access to our process from PID: 40820, Process: Unknown, Access: 0x00000410
+00:54:43 ----------------------------------------------------------------------------------------------------
+00:54:43 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 26824/65454mb
+00:54:43 All anti-cheat hooks initialized successfully.
+00:54:43 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+00:54:44 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+00:54:44 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+00:54:44 [HCDumpListRecv] Count: 0, MaxCount: 0
+00:54:44 [HCChecksumListRecv] Count: 0, MaxCount: 0
+00:54:44 [HCInternalListRecv] Count: 0, MaxCount: 0
+00:54:44 [HCWindowListRecv] Count: 0, MaxCount: 0
+00:54:45 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+00:54:45 Blocked NtOpenProcess attempt to access our process (PID: 48052) with access rights: 0x00000410
+00:54:45 Prevented OpenProcess access to our process from PID: 48052, Process: Unknown, Access: 0x00000410
+00:54:47 [EntryProc] Initialization successful
+00:54:47 Blocked NtOpenProcess attempt to access our process (PID: 48052) with access rights: 0x00000410
+00:54:47 Prevented OpenProcess access to our process from PID: 48052, Process: Unknown, Access: 0x00000410
+00:54:47 Blocked NtOpenProcess attempt to access our process (PID: 48052) with access rights: 0x00000410
+00:54:47 Prevented OpenProcess access to our process from PID: 48052, Process: Unknown, Access: 0x00000410
+00:54:47 Blocked NtOpenProcess attempt to access our process (PID: 48052) with access rights: 0x00000410
+00:54:47 Prevented OpenProcess access to our process from PID: 48052, Process: Unknown, Access: 0x00000410
+00:54:47 Blocked NtOpenProcess attempt to access our process (PID: 48052) with access rights: 0x00000410
+00:54:47 Prevented OpenProcess access to our process from PID: 48052, Process: Unknown, Access: 0x00000410
+00:59:47 Blocked NtOpenProcess attempt to access our process (PID: 48052) with access rights: 0x00000410
+00:59:47 Prevented OpenProcess access to our process from PID: 48052, Process: Unknown, Access: 0x00000410
+01:04:49 Blocked NtOpenProcess attempt to access our process (PID: 48052) with access rights: 0x00000410
+01:04:49 Prevented OpenProcess access to our process from PID: 48052, Process: Unknown, Access: 0x00000410
+01:09:51 Blocked NtOpenProcess attempt to access our process (PID: 48052) with access rights: 0x00000410
+01:09:51 Prevented OpenProcess access to our process from PID: 48052, Process: Unknown, Access: 0x00000410
+01:14:54 Blocked NtOpenProcess attempt to access our process (PID: 48052) with access rights: 0x00000410
+01:14:54 Prevented OpenProcess access to our process from PID: 48052, Process: Unknown, Access: 0x00000410
+01:19:56 Blocked NtOpenProcess attempt to access our process (PID: 48052) with access rights: 0x00000410
+01:19:56 Prevented OpenProcess access to our process from PID: 48052, Process: Unknown, Access: 0x00000410
+01:24:58 Blocked NtOpenProcess attempt to access our process (PID: 48052) with access rights: 0x00000410
+01:24:58 Prevented OpenProcess access to our process from PID: 48052, Process: Unknown, Access: 0x00000410
+01:30:01 Blocked NtOpenProcess attempt to access our process (PID: 48052) with access rights: 0x00000410
+01:30:01 Prevented OpenProcess access to our process from PID: 48052, Process: Unknown, Access: 0x00000410
+01:35:03 Blocked NtOpenProcess attempt to access our process (PID: 48052) with access rights: 0x00000410
+01:35:03 Prevented OpenProcess access to our process from PID: 48052, Process: Unknown, Access: 0x00000410
+02:01:47 ----------------------------------------------------------------------------------------------------
+02:01:47 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 32538/65454mb
+02:01:47 All anti-cheat hooks initialized successfully.
+02:01:47 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+02:01:48 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+02:01:48 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+02:01:48 [HCDumpListRecv] Count: 0, MaxCount: 0
+02:01:48 [HCChecksumListRecv] Count: 0, MaxCount: 0
+02:01:48 [HCInternalListRecv] Count: 0, MaxCount: 0
+02:01:48 [HCWindowListRecv] Count: 0, MaxCount: 0
+02:01:49 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+02:01:49 Blocked NtOpenProcess attempt to access our process (PID: 24220) with access rights: 0x00000410
+02:01:49 Prevented OpenProcess access to our process from PID: 24220, Process: Unknown, Access: 0x00000410
+02:01:51 [EntryProc] Initialization successful
+02:01:51 Blocked NtOpenProcess attempt to access our process (PID: 24220) with access rights: 0x00000410
+02:01:51 Prevented OpenProcess access to our process from PID: 24220, Process: Unknown, Access: 0x00000410
+02:01:51 Blocked NtOpenProcess attempt to access our process (PID: 24220) with access rights: 0x00000410
+02:01:51 Prevented OpenProcess access to our process from PID: 24220, Process: Unknown, Access: 0x00000410
+02:01:51 Blocked NtOpenProcess attempt to access our process (PID: 24220) with access rights: 0x00000410
+02:01:51 Prevented OpenProcess access to our process from PID: 24220, Process: Unknown, Access: 0x00000410
+02:01:51 Blocked NtOpenProcess attempt to access our process (PID: 24220) with access rights: 0x00000410
+02:01:51 Prevented OpenProcess access to our process from PID: 24220, Process: Unknown, Access: 0x00000410
+02:02:50 ----------------------------------------------------------------------------------------------------
+02:02:50 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 32726/65454mb
+02:02:50 All anti-cheat hooks initialized successfully.
+02:02:50 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+02:02:51 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+02:02:51 [HCClientInfoRecv] Result: 2, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 0, MemoryGuard: 0 - 0, MacroProtect: 0 - 0, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+02:02:51 [SplashScreen] SplashType: 1, TextSwitch: 1, DisplayText: Invalid version
+02:03:18 ----------------------------------------------------------------------------------------------------
+02:03:18 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 32981/65454mb
+02:03:18 All anti-cheat hooks initialized successfully.
+02:03:18 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+02:03:19 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+02:03:19 [HCClientInfoRecv] Result: 2, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 0, MemoryGuard: 0 - 0, MacroProtect: 0 - 0, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+02:03:19 [SplashScreen] SplashType: 1, TextSwitch: 1, DisplayText: Invalid version
+02:07:20 ----------------------------------------------------------------------------------------------------
+02:07:20 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 31100/65454mb
+02:07:20 All anti-cheat hooks initialized successfully.
+02:07:20 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+02:07:21 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+02:07:21 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+02:07:22 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:07:22 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:07:22 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:07:22 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:07:22 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:07:22 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:07:22 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:07:22 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:07:22 [HCDumpListRecv] Count: 50, MaxCount: 954
+02:07:22 [HCChecksumListRecv] Count: 0, MaxCount: 0
+02:07:22 [HCInternalListRecv] Count: 15, MaxCount: 15
+02:07:22 [HCWindowListRecv] Count: 0, MaxCount: 0
+02:07:22 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+02:07:24 [EntryProc] Initialization successful
+02:07:24 Blocked NtOpenProcess attempt to access our process (PID: 31244) with access rights: 0x00000410
+02:07:24 Prevented OpenProcess access to our process from PID: 31244, Process: Unknown, Access: 0x00000410
+02:07:24 Blocked NtOpenProcess attempt to access our process (PID: 31244) with access rights: 0x00000410
+02:07:24 Prevented OpenProcess access to our process from PID: 31244, Process: Unknown, Access: 0x00000410
+02:07:24 Blocked NtOpenProcess attempt to access our process (PID: 31244) with access rights: 0x00000410
+02:07:24 Prevented OpenProcess access to our process from PID: 31244, Process: Unknown, Access: 0x00000410
+02:07:24 Blocked NtOpenProcess attempt to access our process (PID: 31244) with access rights: 0x00000410
+02:07:24 Prevented OpenProcess access to our process from PID: 31244, Process: Unknown, Access: 0x00000410
+02:07:58 Blocked NtOpenProcess attempt to access our process (PID: 31244) with access rights: 0x00000410
+02:07:58 Prevented OpenProcess access to our process from PID: 31244, Process: Unknown, Access: 0x00000410
+02:15:26 ----------------------------------------------------------------------------------------------------
+02:15:26 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 33016/65454mb
+02:15:26 All anti-cheat hooks initialized successfully.
+02:15:26 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+02:15:27 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+02:15:27 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+02:15:27 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:15:27 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:15:27 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:15:27 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:15:27 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:15:27 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:15:27 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:15:27 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:15:27 [HCDumpListRecv] Count: 50, MaxCount: 954
+02:15:27 [HCChecksumListRecv] Count: 0, MaxCount: 0
+02:15:27 [HCInternalListRecv] Count: 15, MaxCount: 15
+02:15:27 [HCWindowListRecv] Count: 0, MaxCount: 0
+02:15:27 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+02:15:29 [EntryProc] Initialization successful
+02:15:29 Blocked NtOpenProcess attempt to access our process (PID: 38724) with access rights: 0x00000410
+02:15:29 Prevented OpenProcess access to our process from PID: 38724, Process: Unknown, Access: 0x00000410
+02:15:29 Blocked NtOpenProcess attempt to access our process (PID: 38724) with access rights: 0x00000410
+02:15:29 Prevented OpenProcess access to our process from PID: 38724, Process: Unknown, Access: 0x00000410
+02:15:29 Blocked NtOpenProcess attempt to access our process (PID: 38724) with access rights: 0x00000410
+02:15:29 Prevented OpenProcess access to our process from PID: 38724, Process: Unknown, Access: 0x00000410
+02:15:29 Blocked NtOpenProcess attempt to access our process (PID: 38724) with access rights: 0x00000410
+02:15:29 Prevented OpenProcess access to our process from PID: 38724, Process: Unknown, Access: 0x00000410
+02:16:03 Blocked NtOpenProcess attempt to access our process (PID: 38724) with access rights: 0x00000410
+02:16:03 Prevented OpenProcess access to our process from PID: 38724, Process: Unknown, Access: 0x00000410
+02:16:08 ----------------------------------------------------------------------------------------------------
+02:16:08 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 33095/65454mb
+02:16:08 All anti-cheat hooks initialized successfully.
+02:16:08 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+02:16:08 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+02:16:08 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+02:16:08 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:08 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:08 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:08 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:08 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:08 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:08 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:08 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:08 [HCDumpListRecv] Count: 50, MaxCount: 954
+02:16:08 [HCChecksumListRecv] Count: 0, MaxCount: 0
+02:16:08 [HCInternalListRecv] Count: 15, MaxCount: 15
+02:16:08 [HCWindowListRecv] Count: 0, MaxCount: 0
+02:16:08 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+02:16:10 [EntryProc] Initialization successful
+02:16:11 Blocked NtOpenProcess attempt to access our process (PID: 2068) with access rights: 0x00000410
+02:16:11 Prevented OpenProcess access to our process from PID: 2068, Process: Unknown, Access: 0x00000410
+02:16:11 Blocked NtOpenProcess attempt to access our process (PID: 2068) with access rights: 0x00000410
+02:16:11 Prevented OpenProcess access to our process from PID: 2068, Process: Unknown, Access: 0x00000410
+02:16:11 Blocked NtOpenProcess attempt to access our process (PID: 2068) with access rights: 0x00000410
+02:16:11 Prevented OpenProcess access to our process from PID: 2068, Process: Unknown, Access: 0x00000410
+02:16:11 Blocked NtOpenProcess attempt to access our process (PID: 2068) with access rights: 0x00000410
+02:16:11 Prevented OpenProcess access to our process from PID: 2068, Process: Unknown, Access: 0x00000410
+02:16:43 ----------------------------------------------------------------------------------------------------
+02:16:43 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 33196/65454mb
+02:16:43 All anti-cheat hooks initialized successfully.
+02:16:43 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+02:16:43 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+02:16:43 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+02:16:44 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:44 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:44 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:44 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:44 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:44 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:44 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:44 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:16:44 [HCDumpListRecv] Count: 50, MaxCount: 954
+02:16:44 [HCChecksumListRecv] Count: 0, MaxCount: 0
+02:16:44 [HCInternalListRecv] Count: 15, MaxCount: 15
+02:16:44 [HCWindowListRecv] Count: 0, MaxCount: 0
+02:16:44 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+02:16:46 [EntryProc] Initialization successful
+02:16:46 Blocked NtOpenProcess attempt to access our process (PID: 43640) with access rights: 0x00000410
+02:16:46 Prevented OpenProcess access to our process from PID: 43640, Process: Unknown, Access: 0x00000410
+02:16:46 Blocked NtOpenProcess attempt to access our process (PID: 43640) with access rights: 0x00000410
+02:16:46 Prevented OpenProcess access to our process from PID: 43640, Process: Unknown, Access: 0x00000410
+02:16:46 Blocked NtOpenProcess attempt to access our process (PID: 43640) with access rights: 0x00000410
+02:16:46 Prevented OpenProcess access to our process from PID: 43640, Process: Unknown, Access: 0x00000410
+02:16:46 Blocked NtOpenProcess attempt to access our process (PID: 43640) with access rights: 0x00000410
+02:16:46 Prevented OpenProcess access to our process from PID: 43640, Process: Unknown, Access: 0x00000410
+02:17:19 Blocked NtOpenProcess attempt to access our process (PID: 43640) with access rights: 0x00000410
+02:17:19 Prevented OpenProcess access to our process from PID: 43640, Process: Unknown, Access: 0x00000410
+02:18:33 ----------------------------------------------------------------------------------------------------
+02:18:33 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 33355/65454mb
+02:18:33 All anti-cheat hooks initialized successfully.
+02:18:33 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+02:18:33 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+02:18:34 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+02:18:34 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:18:34 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:18:34 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:18:34 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:18:34 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:18:34 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:18:34 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:18:34 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:18:34 [HCDumpListRecv] Count: 50, MaxCount: 954
+02:18:34 [HCChecksumListRecv] Count: 0, MaxCount: 0
+02:18:34 [HCInternalListRecv] Count: 15, MaxCount: 15
+02:18:34 [HCWindowListRecv] Count: 0, MaxCount: 0
+02:18:34 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+02:18:36 [EntryProc] Initialization successful
+02:18:36 Blocked NtOpenProcess attempt to access our process (PID: 34904) with access rights: 0x00000410
+02:18:36 Prevented OpenProcess access to our process from PID: 34904, Process: Unknown, Access: 0x00000410
+02:18:36 Blocked NtOpenProcess attempt to access our process (PID: 34904) with access rights: 0x00000410
+02:18:36 Prevented OpenProcess access to our process from PID: 34904, Process: Unknown, Access: 0x00000410
+02:18:36 Blocked NtOpenProcess attempt to access our process (PID: 34904) with access rights: 0x00000410
+02:18:36 Prevented OpenProcess access to our process from PID: 34904, Process: Unknown, Access: 0x00000410
+02:18:36 Blocked NtOpenProcess attempt to access our process (PID: 34904) with access rights: 0x00000410
+02:18:36 Prevented OpenProcess access to our process from PID: 34904, Process: Unknown, Access: 0x00000410
+02:19:00 ----------------------------------------------------------------------------------------------------
+02:19:00 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 33756/65454mb
+02:19:00 All anti-cheat hooks initialized successfully.
+02:19:00 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+02:19:00 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+02:19:00 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+02:19:00 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:19:01 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:19:01 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:19:01 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:19:01 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:19:01 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:19:01 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:19:01 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:19:01 [HCDumpListRecv] Count: 50, MaxCount: 954
+02:19:01 [HCChecksumListRecv] Count: 0, MaxCount: 0
+02:19:01 [HCInternalListRecv] Count: 15, MaxCount: 15
+02:19:01 [HCWindowListRecv] Count: 0, MaxCount: 0
+02:19:01 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+02:19:03 [EntryProc] Initialization successful
+02:19:03 Blocked NtOpenProcess attempt to access our process (PID: 29700) with access rights: 0x00000410
+02:19:03 Prevented OpenProcess access to our process from PID: 29700, Process: Unknown, Access: 0x00000410
+02:19:03 Blocked NtOpenProcess attempt to access our process (PID: 29700) with access rights: 0x00000410
+02:19:03 Prevented OpenProcess access to our process from PID: 29700, Process: Unknown, Access: 0x00000410
+02:19:03 Blocked NtOpenProcess attempt to access our process (PID: 29700) with access rights: 0x00000410
+02:19:03 Prevented OpenProcess access to our process from PID: 29700, Process: Unknown, Access: 0x00000410
+02:19:03 Blocked NtOpenProcess attempt to access our process (PID: 29700) with access rights: 0x00000410
+02:19:03 Prevented OpenProcess access to our process from PID: 29700, Process: Unknown, Access: 0x00000410
+02:21:02 ----------------------------------------------------------------------------------------------------
+02:21:02 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 33961/65454mb
+02:21:02 All anti-cheat hooks initialized successfully.
+02:21:02 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+02:21:03 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+02:21:03 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+02:21:03 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:03 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:03 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:03 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:03 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:03 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:03 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:03 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:03 [HCDumpListRecv] Count: 50, MaxCount: 954
+02:21:03 [HCChecksumListRecv] Count: 0, MaxCount: 0
+02:21:03 [HCInternalListRecv] Count: 15, MaxCount: 15
+02:21:03 [HCWindowListRecv] Count: 0, MaxCount: 0
+02:21:03 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+02:21:05 [EntryProc] Initialization successful
+02:21:05 Blocked NtOpenProcess attempt to access our process (PID: 44908) with access rights: 0x00000410
+02:21:05 Prevented OpenProcess access to our process from PID: 44908, Process: Unknown, Access: 0x00000410
+02:21:05 Blocked NtOpenProcess attempt to access our process (PID: 44908) with access rights: 0x00000410
+02:21:05 Prevented OpenProcess access to our process from PID: 44908, Process: Unknown, Access: 0x00000410
+02:21:05 Blocked NtOpenProcess attempt to access our process (PID: 44908) with access rights: 0x00000410
+02:21:05 Prevented OpenProcess access to our process from PID: 44908, Process: Unknown, Access: 0x00000410
+02:21:05 Blocked NtOpenProcess attempt to access our process (PID: 44908) with access rights: 0x00000410
+02:21:05 Prevented OpenProcess access to our process from PID: 44908, Process: Unknown, Access: 0x00000410
+02:21:30 ----------------------------------------------------------------------------------------------------
+02:21:30 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 33428/65454mb
+02:21:30 All anti-cheat hooks initialized successfully.
+02:21:30 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+02:21:30 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+02:21:30 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+02:21:30 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:31 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:31 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:31 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:31 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:31 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:31 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:31 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:21:31 [HCDumpListRecv] Count: 50, MaxCount: 954
+02:21:31 [HCChecksumListRecv] Count: 0, MaxCount: 0
+02:21:31 [HCInternalListRecv] Count: 15, MaxCount: 15
+02:21:31 [HCWindowListRecv] Count: 0, MaxCount: 0
+02:21:31 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+02:21:33 [EntryProc] Initialization successful
+02:21:33 Blocked NtOpenProcess attempt to access our process (PID: 40460) with access rights: 0x00000410
+02:21:33 Prevented OpenProcess access to our process from PID: 40460, Process: Unknown, Access: 0x00000410
+02:21:33 Blocked NtOpenProcess attempt to access our process (PID: 40460) with access rights: 0x00000410
+02:21:33 Prevented OpenProcess access to our process from PID: 40460, Process: Unknown, Access: 0x00000410
+02:21:33 Blocked NtOpenProcess attempt to access our process (PID: 40460) with access rights: 0x00000410
+02:21:33 Prevented OpenProcess access to our process from PID: 40460, Process: Unknown, Access: 0x00000410
+02:21:33 Blocked NtOpenProcess attempt to access our process (PID: 40460) with access rights: 0x00000410
+02:21:33 Prevented OpenProcess access to our process from PID: 40460, Process: Unknown, Access: 0x00000410
+02:22:10 Blocked NtOpenProcess attempt to access our process (PID: 40460) with access rights: 0x00000410
+02:22:10 Prevented OpenProcess access to our process from PID: 40460, Process: Unknown, Access: 0x00000410
+02:23:32 ----------------------------------------------------------------------------------------------------
+02:23:32 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 33652/65454mb
+02:23:32 All anti-cheat hooks initialized successfully.
+02:23:32 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+02:23:33 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+02:23:33 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+02:23:33 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:23:33 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:23:33 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:23:33 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:23:33 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:23:33 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:23:33 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:23:33 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:23:33 [HCDumpListRecv] Count: 50, MaxCount: 954
+02:23:33 [HCChecksumListRecv] Count: 0, MaxCount: 0
+02:23:33 [HCInternalListRecv] Count: 15, MaxCount: 15
+02:23:33 [HCWindowListRecv] Count: 0, MaxCount: 0
+02:23:33 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+02:23:35 [EntryProc] Initialization successful
+02:23:35 Blocked NtOpenProcess attempt to access our process (PID: 7336) with access rights: 0x00000410
+02:23:35 Prevented OpenProcess access to our process from PID: 7336, Process: Unknown, Access: 0x00000410
+02:23:35 Blocked NtOpenProcess attempt to access our process (PID: 7336) with access rights: 0x00000410
+02:23:35 Prevented OpenProcess access to our process from PID: 7336, Process: Unknown, Access: 0x00000410
+02:23:35 Blocked NtOpenProcess attempt to access our process (PID: 7336) with access rights: 0x00000410
+02:23:35 Prevented OpenProcess access to our process from PID: 7336, Process: Unknown, Access: 0x00000410
+02:23:35 Blocked NtOpenProcess attempt to access our process (PID: 7336) with access rights: 0x00000410
+02:23:35 Prevented OpenProcess access to our process from PID: 7336, Process: Unknown, Access: 0x00000410
+02:25:36 ----------------------------------------------------------------------------------------------------
+02:25:36 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 33237/65454mb
+02:25:36 All anti-cheat hooks initialized successfully.
+02:25:36 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+02:25:36 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+02:25:36 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+02:25:36 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:25:37 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:25:37 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:25:37 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:25:37 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:25:37 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:25:37 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:25:37 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:25:37 [HCDumpListRecv] Count: 50, MaxCount: 954
+02:25:37 [HCChecksumListRecv] Count: 0, MaxCount: 0
+02:25:37 [HCInternalListRecv] Count: 15, MaxCount: 15
+02:25:37 [HCWindowListRecv] Count: 0, MaxCount: 0
+02:25:37 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+02:25:39 [EntryProc] Initialization successful
+02:25:39 Blocked NtOpenProcess attempt to access our process (PID: 49728) with access rights: 0x00000410
+02:25:39 Prevented OpenProcess access to our process from PID: 49728, Process: Unknown, Access: 0x00000410
+02:25:39 Blocked NtOpenProcess attempt to access our process (PID: 49728) with access rights: 0x00000410
+02:25:39 Prevented OpenProcess access to our process from PID: 49728, Process: Unknown, Access: 0x00000410
+02:25:39 Blocked NtOpenProcess attempt to access our process (PID: 49728) with access rights: 0x00000410
+02:25:39 Prevented OpenProcess access to our process from PID: 49728, Process: Unknown, Access: 0x00000410
+02:25:39 Blocked NtOpenProcess attempt to access our process (PID: 49728) with access rights: 0x00000410
+02:25:39 Prevented OpenProcess access to our process from PID: 49728, Process: Unknown, Access: 0x00000410
+02:26:13 Blocked NtOpenProcess attempt to access our process (PID: 49728) with access rights: 0x00000410
+02:26:13 Prevented OpenProcess access to our process from PID: 49728, Process: Unknown, Access: 0x00000410
+02:28:56 ----------------------------------------------------------------------------------------------------
+02:28:56 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 32933/65454mb
+02:28:56 All anti-cheat hooks initialized successfully.
+02:28:56 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+02:28:57 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+02:28:57 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+02:28:57 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:28:57 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:28:57 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:28:57 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:28:57 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:28:57 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:28:57 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:28:57 [HCDumpListRecv] Count: 113, MaxCount: 954
+02:28:57 [HCDumpListRecv] Count: 50, MaxCount: 954
+02:28:57 [HCChecksumListRecv] Count: 0, MaxCount: 0
+02:28:57 [HCInternalListRecv] Count: 15, MaxCount: 15
+02:28:57 [HCWindowListRecv] Count: 0, MaxCount: 0
+02:28:58 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+02:29:00 [EntryProc] Initialization successful
+02:29:00 Blocked NtOpenProcess attempt to access our process (PID: 22880) with access rights: 0x00000410
+02:29:00 Prevented OpenProcess access to our process from PID: 22880, Process: Unknown, Access: 0x00000410
+02:29:00 Blocked NtOpenProcess attempt to access our process (PID: 22880) with access rights: 0x00000410
+02:29:00 Prevented OpenProcess access to our process from PID: 22880, Process: Unknown, Access: 0x00000410
+02:29:00 Blocked NtOpenProcess attempt to access our process (PID: 22880) with access rights: 0x00000410
+02:29:00 Prevented OpenProcess access to our process from PID: 22880, Process: Unknown, Access: 0x00000410
+02:29:00 Blocked NtOpenProcess attempt to access our process (PID: 22880) with access rights: 0x00000410
+02:29:00 Prevented OpenProcess access to our process from PID: 22880, Process: Unknown, Access: 0x00000410
+02:29:33 Blocked NtOpenProcess attempt to access our process (PID: 22880) with access rights: 0x00000410
+02:29:33 Prevented OpenProcess access to our process from PID: 22880, Process: Unknown, Access: 0x00000410
+09:01:29 ----------------------------------------------------------------------------------------------------
+09:01:29 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 34880/65454mb
+09:01:29 All anti-cheat hooks initialized successfully.
+09:01:29 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+09:01:30 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+09:01:30 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+09:01:30 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:01:30 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:01:30 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:01:30 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:01:30 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:01:30 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:01:30 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:01:30 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:01:30 [HCDumpListRecv] Count: 50, MaxCount: 954
+09:01:30 [HCChecksumListRecv] Count: 0, MaxCount: 0
+09:01:30 [HCInternalListRecv] Count: 15, MaxCount: 15
+09:01:30 [HCWindowListRecv] Count: 0, MaxCount: 0
+09:01:30 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+09:01:32 [EntryProc] Initialization successful
+09:01:33 Blocked NtOpenProcess attempt to access our process (PID: 25252) with access rights: 0x00000410
+09:01:33 Prevented OpenProcess access to our process from PID: 25252, Process: Unknown, Access: 0x00000410
+09:01:33 Blocked NtOpenProcess attempt to access our process (PID: 25252) with access rights: 0x00000410
+09:01:33 Prevented OpenProcess access to our process from PID: 25252, Process: Unknown, Access: 0x00000410
+09:01:33 Blocked NtOpenProcess attempt to access our process (PID: 25252) with access rights: 0x00000410
+09:01:33 Prevented OpenProcess access to our process from PID: 25252, Process: Unknown, Access: 0x00000410
+09:01:33 Blocked NtOpenProcess attempt to access our process (PID: 25252) with access rights: 0x00000410
+09:01:33 Prevented OpenProcess access to our process from PID: 25252, Process: Unknown, Access: 0x00000410
+09:02:09 Blocked NtOpenProcess attempt to access our process (PID: 25252) with access rights: 0x00000410
+09:02:09 Prevented OpenProcess access to our process from PID: 25252, Process: Unknown, Access: 0x00000410
+09:07:26 Blocked NtOpenProcess attempt to access our process (PID: 25252) with access rights: 0x00000410
+09:07:26 Prevented OpenProcess access to our process from PID: 25252, Process: Unknown, Access: 0x00000410
+09:08:12 ----------------------------------------------------------------------------------------------------
+09:08:12 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 33312/65454mb
+09:08:12 All anti-cheat hooks initialized successfully.
+09:08:12 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+09:08:12 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+09:08:12 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+09:08:12 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:08:12 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:08:12 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:08:12 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:08:12 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:08:13 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:08:13 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:08:13 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:08:13 [HCDumpListRecv] Count: 50, MaxCount: 954
+09:08:13 [HCChecksumListRecv] Count: 0, MaxCount: 0
+09:08:13 [HCInternalListRecv] Count: 15, MaxCount: 15
+09:08:13 [HCWindowListRecv] Count: 0, MaxCount: 0
+09:08:13 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+09:08:15 [EntryProc] Initialization successful
+09:08:15 Blocked NtOpenProcess attempt to access our process (PID: 53856) with access rights: 0x00000410
+09:08:15 Prevented OpenProcess access to our process from PID: 53856, Process: Unknown, Access: 0x00000410
+09:08:15 Blocked NtOpenProcess attempt to access our process (PID: 53856) with access rights: 0x00000410
+09:08:15 Prevented OpenProcess access to our process from PID: 53856, Process: Unknown, Access: 0x00000410
+09:08:15 Blocked NtOpenProcess attempt to access our process (PID: 53856) with access rights: 0x00000410
+09:08:15 Prevented OpenProcess access to our process from PID: 53856, Process: Unknown, Access: 0x00000410
+09:08:15 Blocked NtOpenProcess attempt to access our process (PID: 53856) with access rights: 0x00000410
+09:08:15 Prevented OpenProcess access to our process from PID: 53856, Process: Unknown, Access: 0x00000410
+09:08:49 Blocked NtOpenProcess attempt to access our process (PID: 53856) with access rights: 0x00000410
+09:08:49 Prevented OpenProcess access to our process from PID: 53856, Process: Unknown, Access: 0x00000410
+09:14:06 Blocked NtOpenProcess attempt to access our process (PID: 53856) with access rights: 0x00000410
+09:14:06 Prevented OpenProcess access to our process from PID: 53856, Process: Unknown, Access: 0x00000410
+09:26:46 ----------------------------------------------------------------------------------------------------
+09:26:46 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 31788/65454mb
+09:26:46 All anti-cheat hooks initialized successfully.
+09:26:46 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+09:26:47 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+09:26:47 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+09:26:47 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:26:47 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:26:47 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:26:47 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:26:47 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:26:47 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:26:47 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:26:47 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:26:47 [HCDumpListRecv] Count: 50, MaxCount: 954
+09:26:47 [HCChecksumListRecv] Count: 0, MaxCount: 0
+09:26:47 [HCInternalListRecv] Count: 15, MaxCount: 15
+09:26:47 [HCWindowListRecv] Count: 0, MaxCount: 0
+09:26:47 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+09:26:49 [EntryProc] Initialization successful
+09:26:49 Blocked NtOpenProcess attempt to access our process (PID: 49864) with access rights: 0x00000410
+09:26:49 Prevented OpenProcess access to our process from PID: 49864, Process: Unknown, Access: 0x00000410
+09:26:49 Blocked NtOpenProcess attempt to access our process (PID: 49864) with access rights: 0x00000410
+09:26:49 Prevented OpenProcess access to our process from PID: 49864, Process: Unknown, Access: 0x00000410
+09:26:49 Blocked NtOpenProcess attempt to access our process (PID: 49864) with access rights: 0x00000410
+09:26:49 Prevented OpenProcess access to our process from PID: 49864, Process: Unknown, Access: 0x00000410
+09:26:49 Blocked NtOpenProcess attempt to access our process (PID: 49864) with access rights: 0x00000410
+09:26:49 Prevented OpenProcess access to our process from PID: 49864, Process: Unknown, Access: 0x00000410
+09:27:23 Blocked NtOpenProcess attempt to access our process (PID: 49864) with access rights: 0x00000410
+09:27:23 Prevented OpenProcess access to our process from PID: 49864, Process: Unknown, Access: 0x00000410
+09:32:40 Blocked NtOpenProcess attempt to access our process (PID: 49864) with access rights: 0x00000410
+09:32:40 Prevented OpenProcess access to our process from PID: 49864, Process: Unknown, Access: 0x00000410
+09:38:25 ----------------------------------------------------------------------------------------------------
+09:38:25 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 31794/65454mb
+09:38:25 All anti-cheat hooks initialized successfully.
+09:38:25 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+09:38:26 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+09:38:26 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+09:38:26 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:38:26 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:38:26 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:38:26 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:38:26 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:38:26 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:38:26 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:38:26 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:38:26 [HCDumpListRecv] Count: 50, MaxCount: 954
+09:38:26 [HCChecksumListRecv] Count: 0, MaxCount: 0
+09:38:26 [HCInternalListRecv] Count: 15, MaxCount: 15
+09:38:26 [HCWindowListRecv] Count: 0, MaxCount: 0
+09:38:27 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+09:38:29 [EntryProc] Initialization successful
+09:38:29 Blocked NtOpenProcess attempt to access our process (PID: 26316) with access rights: 0x00000410
+09:38:29 Prevented OpenProcess access to our process from PID: 26316, Process: Unknown, Access: 0x00000410
+09:38:29 Blocked NtOpenProcess attempt to access our process (PID: 26316) with access rights: 0x00000410
+09:38:29 Prevented OpenProcess access to our process from PID: 26316, Process: Unknown, Access: 0x00000410
+09:38:29 Blocked NtOpenProcess attempt to access our process (PID: 26316) with access rights: 0x00000410
+09:38:29 Prevented OpenProcess access to our process from PID: 26316, Process: Unknown, Access: 0x00000410
+09:38:29 Blocked NtOpenProcess attempt to access our process (PID: 26316) with access rights: 0x00000410
+09:38:29 Prevented OpenProcess access to our process from PID: 26316, Process: Unknown, Access: 0x00000410
+09:39:03 Blocked NtOpenProcess attempt to access our process (PID: 26316) with access rights: 0x00000410
+09:39:03 Prevented OpenProcess access to our process from PID: 26316, Process: Unknown, Access: 0x00000410
+09:41:54 ----------------------------------------------------------------------------------------------------
+09:41:54 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 31804/65454mb
+09:41:54 All anti-cheat hooks initialized successfully.
+09:41:54 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+09:41:55 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+09:41:55 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+09:41:55 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:41:55 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:41:55 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:41:55 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:41:55 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:41:55 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:41:55 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:41:55 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:41:55 [HCDumpListRecv] Count: 50, MaxCount: 954
+09:41:55 [HCChecksumListRecv] Count: 0, MaxCount: 0
+09:41:55 [HCInternalListRecv] Count: 15, MaxCount: 15
+09:41:55 [HCWindowListRecv] Count: 0, MaxCount: 0
+09:41:55 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+09:41:57 [EntryProc] Initialization successful
+09:41:57 Blocked NtOpenProcess attempt to access our process (PID: 9448) with access rights: 0x00000410
+09:41:57 Prevented OpenProcess access to our process from PID: 9448, Process: Unknown, Access: 0x00000410
+09:41:57 Blocked NtOpenProcess attempt to access our process (PID: 9448) with access rights: 0x00000410
+09:41:57 Prevented OpenProcess access to our process from PID: 9448, Process: Unknown, Access: 0x00000410
+09:41:57 Blocked NtOpenProcess attempt to access our process (PID: 9448) with access rights: 0x00000410
+09:41:57 Prevented OpenProcess access to our process from PID: 9448, Process: Unknown, Access: 0x00000410
+09:41:57 Blocked NtOpenProcess attempt to access our process (PID: 9448) with access rights: 0x00000410
+09:41:57 Prevented OpenProcess access to our process from PID: 9448, Process: Unknown, Access: 0x00000410
+09:42:31 Blocked NtOpenProcess attempt to access our process (PID: 9448) with access rights: 0x00000410
+09:42:31 Prevented OpenProcess access to our process from PID: 9448, Process: Unknown, Access: 0x00000410
+09:42:49 ----------------------------------------------------------------------------------------------------
+09:42:49 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 32058/65454mb
+09:42:49 All anti-cheat hooks initialized successfully.
+09:42:49 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+09:42:50 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+09:42:50 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+09:42:50 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:42:50 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:42:50 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:42:50 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:42:50 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:42:50 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:42:50 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:42:50 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:42:50 [HCDumpListRecv] Count: 50, MaxCount: 954
+09:42:50 [HCChecksumListRecv] Count: 0, MaxCount: 0
+09:42:50 [HCInternalListRecv] Count: 15, MaxCount: 15
+09:42:50 [HCWindowListRecv] Count: 0, MaxCount: 0
+09:42:50 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+09:42:52 [EntryProc] Initialization successful
+09:42:52 Blocked NtOpenProcess attempt to access our process (PID: 48356) with access rights: 0x00000410
+09:42:52 Prevented OpenProcess access to our process from PID: 48356, Process: Unknown, Access: 0x00000410
+09:42:52 Blocked NtOpenProcess attempt to access our process (PID: 48356) with access rights: 0x00000410
+09:42:52 Prevented OpenProcess access to our process from PID: 48356, Process: Unknown, Access: 0x00000410
+09:42:52 Blocked NtOpenProcess attempt to access our process (PID: 48356) with access rights: 0x00000410
+09:42:52 Prevented OpenProcess access to our process from PID: 48356, Process: Unknown, Access: 0x00000410
+09:42:52 Blocked NtOpenProcess attempt to access our process (PID: 48356) with access rights: 0x00000410
+09:42:52 Prevented OpenProcess access to our process from PID: 48356, Process: Unknown, Access: 0x00000410
+09:43:26 Blocked NtOpenProcess attempt to access our process (PID: 48356) with access rights: 0x00000410
+09:43:26 Prevented OpenProcess access to our process from PID: 48356, Process: Unknown, Access: 0x00000410
+09:48:45 ----------------------------------------------------------------------------------------------------
+09:48:45 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 32030/65454mb
+09:48:45 All anti-cheat hooks initialized successfully.
+09:48:45 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+09:48:46 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+09:48:46 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+09:48:46 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:48:46 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:48:46 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:48:46 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:48:46 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:48:46 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:48:46 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:48:46 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:48:46 [HCDumpListRecv] Count: 50, MaxCount: 954
+09:48:46 [HCChecksumListRecv] Count: 0, MaxCount: 0
+09:48:46 [HCInternalListRecv] Count: 15, MaxCount: 15
+09:48:46 [HCWindowListRecv] Count: 0, MaxCount: 0
+09:48:46 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+09:48:48 [EntryProc] Initialization successful
+09:48:48 Blocked NtOpenProcess attempt to access our process (PID: 54708) with access rights: 0x00000410
+09:48:48 Prevented OpenProcess access to our process from PID: 54708, Process: Unknown, Access: 0x00000410
+09:48:48 Blocked NtOpenProcess attempt to access our process (PID: 54708) with access rights: 0x00000410
+09:48:48 Prevented OpenProcess access to our process from PID: 54708, Process: Unknown, Access: 0x00000410
+09:48:48 Blocked NtOpenProcess attempt to access our process (PID: 54708) with access rights: 0x00000410
+09:48:48 Prevented OpenProcess access to our process from PID: 54708, Process: Unknown, Access: 0x00000410
+09:48:48 Blocked NtOpenProcess attempt to access our process (PID: 54708) with access rights: 0x00000410
+09:48:48 Prevented OpenProcess access to our process from PID: 54708, Process: Unknown, Access: 0x00000410
+09:49:22 Blocked NtOpenProcess attempt to access our process (PID: 54708) with access rights: 0x00000410
+09:49:22 Prevented OpenProcess access to our process from PID: 54708, Process: Unknown, Access: 0x00000410
+09:50:51 ----------------------------------------------------------------------------------------------------
+09:50:51 [CheckSystemInformation] ClientVersion: 1.0.0, SystemVersion: 6.2.9200, MemoryUsage: 32155/65454mb
+09:50:51 All anti-cheat hooks initialized successfully.
+09:50:51 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUOnline
+09:50:52 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 3E7B6AC6, HackVersion: 1.0.0, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+09:50:52 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+09:50:52 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:50:52 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:50:52 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:50:52 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:50:52 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:50:52 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:50:52 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:50:52 [HCDumpListRecv] Count: 113, MaxCount: 954
+09:50:52 [HCDumpListRecv] Count: 50, MaxCount: 954
+09:50:52 [HCChecksumListRecv] Count: 0, MaxCount: 0
+09:50:52 [HCInternalListRecv] Count: 15, MaxCount: 15
+09:50:52 [HCWindowListRecv] Count: 0, MaxCount: 0
+09:50:52 [EntryProc] DumpListMaxCount: 954, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+09:50:54 [EntryProc] Initialization successful
+09:50:54 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+09:50:54 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+09:50:54 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+09:50:54 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+09:50:54 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+09:50:54 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+09:50:54 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+09:50:54 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+09:51:28 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+09:51:28 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+09:56:44 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+09:56:44 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+10:01:59 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+10:01:59 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+10:07:08 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+10:07:08 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+10:12:18 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+10:12:18 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+10:17:27 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+10:17:27 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+10:22:35 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+10:22:35 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+10:27:42 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+10:27:42 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+10:32:49 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+10:32:49 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+10:37:56 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+10:37:56 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+10:43:02 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+10:43:02 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+10:48:08 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+10:48:08 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+10:53:14 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+10:53:14 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+10:58:20 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+10:58:20 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+11:03:25 Blocked NtOpenProcess attempt to access our process (PID: 39376) with access rights: 0x00000410
+11:03:25 Prevented OpenProcess access to our process from PID: 39376, Process: Unknown, Access: 0x00000410
+ββνβινδγΣήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήώύββνβινδγΣΜ΄›–”Δª¤§–Ί΅™ ¥’§ ΅ΞΣ΄–΅§Ι–¥¤ ΅νΣβαγαγίΣΔª¤§–Ι–¥¤ ΅νΣιαεακεγγίΣΎ– ¥ªΖ¤’–νΣδγζγζΰιζηζη•ώύββνβινδγΣ²Σ’΅§ή”›–’§Σ›  ¤Σ΅§’­–—Σ¤¦””–¤¤™¦ªαώύββνβινδγΣΜΔ£’¤›Δ”¥––΅ΞΣΔ£’¤›Ηª£–νΣγίΣΗ–«§Δ¨§”›νΣβίΣ·¤£’ªΗ–«§νΣΏ”–΅¤–—Σ§ νΣΎΖΐ΅΅–ώύββνβινδβΣΜ΄»΄–΅§Ί΅™ Δ–΅—ΞΣΊ¤Ε–” ΅΅–”§νΣγίΣ΄–΅§Ή–΄Ε΄νΣδ¶θµι²΄ιίΣ»’”Ι–¥¤ ΅νΣβαγαγίΣ»’¥—¨’¥–Ί—νΣ’θειβζ’δ—ι”ζ–™λη•θ’κκ•λβθβλκδλ–θώύββνβινδβΣΜ»΄΄–΅§Ί΅™ Ε–”©ΞΣΕ–¤¦§νΣγίΣ¶΅”·–”Ό–ªνΣγΣήΣγίΣΊ΅§–¥΅’Ι–¥¤ ΅νΣγίΣΕ–” ΅΅–”§νΣβίΣΎ– ¥ªΈ¦’¥—νΣγΣήΣείΣΎ’”¥ Γ¥ §–”§νΣγΣήΣιίΣΎ– ¥ª²——¥–¤¤νΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγώύββνβινδβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνβινδβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνβινδβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνβινδβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνβινδβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνβινδβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνβινδβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνβινδβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνβινδβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣζγίΣΎ’«΄ ¦΅§νΣκζηώύββνβινδβΣΜ»΄΄›–”¤¦Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύββνβινδβΣΜ»΄Ί΅§–¥΅’Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣβζίΣΎ’«΄ ¦΅§νΣβζώύββνβινδβΣΜ»΄Θ΅— ¨Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύββνβινδβΣΜ¶΅§¥ªΓ¥ ”ΞΣ·¦£Ώ¤§Ύ’«΄ ¦΅§νΣκζηίΣ΄›–”¤¦Ώ¤§Ύ’«΄ ¦΅§νΣγίΣΊ΅§–¥΅’Ώ¤§Ύ’«΄ ¦΅§νΣβζίΣΘ΅— ¨Ώ¤§Ύ’«΄ ¦΅§νΣγώύββνβινδδΣΜ¶΅§¥ªΓ¥ ”ΞΣΊ΅§’­’§ ΅Σ¤¦””–¤¤™¦ώύββνβινδδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣιβεΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνβινδδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣιβείΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνβινδδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣιβεΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνβινδδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣιβείΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνβινδδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣιβεΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνβινδδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣιβείΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνβινδδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣιβεΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνβινδδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣιβείΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνδινγλΣήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήώύββνδινγλΣΜ΄›–”Δª¤§–Ί΅™ ¥’§ ΅ΞΣ΄–΅§Ι–¥¤ ΅νΣβαγαγίΣΔª¤§–Ι–¥¤ ΅νΣιαεακεγγίΣΎ– ¥ªΖ¤’–νΣββζβγΰδειγι•ώύββνδινγλΣ²Σ’΅§ή”›–’§Σ›  ¤Σ΅§’­–—Σ¤¦””–¤¤™¦ªαώύββνδινγλΣΜΔ£’¤›Δ”¥––΅ΞΣΔ£’¤›Ηª£–νΣγίΣΗ–«§Δ¨§”›νΣβίΣ·¤£’ªΗ–«§νΣΏ”–΅¤–—Σ§ νΣΎΖΐ΅΅–ώύββνδινγλΣΜ΄»΄–΅§Ί΅™ Δ–΅—ΞΣΊ¤Ε–” ΅΅–”§νΣγίΣ΄–΅§Ή–΄Ε΄νΣδ¶θµι²΄ιίΣ»’”Ι–¥¤ ΅νΣβαγαγίΣ»’¥—¨’¥–Ί—νΣηλδβη™™δ–εειδλεεηιζζγκ–—βθκ’ι”™ζώύββνδινγκΣΜ»΄΄–΅§Ί΅™ Ε–”©ΞΣΕ–¤¦§νΣγίΣ¶΅”·–”Ό–ªνΣγΣήΣγίΣΊ΅§–¥΅’Ι–¥¤ ΅νΣγίΣΕ–” ΅΅–”§νΣβίΣΎ– ¥ªΈ¦’¥—νΣγΣήΣείΣΎ’”¥ Γ¥ §–”§νΣγΣήΣιίΣΎ– ¥ª²——¥–¤¤νΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγώύββνδινγκΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινγκΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινγκΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινγκΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινγκΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινγκΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινγκΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινγκΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινγκΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣζγίΣΎ’«΄ ¦΅§νΣκζηώύββνδινγκΣΜ»΄΄›–”¤¦Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύββνδινγκΣΜ»΄Ί΅§–¥΅’Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣβζίΣΎ’«΄ ¦΅§νΣβζώύββνδινγκΣΜ»΄Θ΅— ¨Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύββνδινγκΣΜ¶΅§¥ªΓ¥ ”ΞΣ·¦£Ώ¤§Ύ’«΄ ¦΅§νΣκζηίΣ΄›–”¤¦Ώ¤§Ύ’«΄ ¦΅§νΣγίΣΊ΅§–¥΅’Ώ¤§Ύ’«΄ ¦΅§νΣβζίΣΘ΅— ¨Ώ¤§Ύ’«΄ ¦΅§νΣγώύββνδινββΣΜ¶΅§¥ªΓ¥ ”ΞΣΊ΅§’­’§ ΅Σ¤¦””–¤¤™¦ώύββνδινββΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβδεληΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνδινββΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύββνδινββΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβδεληΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνδινββΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύββνδινββΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβδεληΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνδινββΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβδεληίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνδινβζΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβδεληΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνδινβζΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβδεληίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνδινηδΣήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήώύββνδινηδΣΜ΄›–”Δª¤§–Ί΅™ ¥’§ ΅ΞΣ΄–΅§Ι–¥¤ ΅νΣβαγαγίΣΔª¤§–Ι–¥¤ ΅νΣιαεακεγγίΣΎ– ¥ªΖ¤’–νΣββγκθΰδειγι•ώύββνδινηδΣ²Σ’΅§ή”›–’§Σ›  ¤Σ΅§’­–—Σ¤¦””–¤¤™¦ªαώύββνδινηδΣΜΔ£’¤›Δ”¥––΅ΞΣΔ£’¤›Ηª£–νΣγίΣΗ–«§Δ¨§”›νΣβίΣ·¤£’ªΗ–«§νΣΏ”–΅¤–—Σ§ νΣΎΖΐ΅΅–ώύββνδινηδΣΜ΄»΄–΅§Ί΅™ Δ–΅—ΞΣΊ¤Ε–” ΅΅–”§νΣγίΣ΄–΅§Ή–΄Ε΄νΣδ¶θµι²΄ιίΣ»’”Ι–¥¤ ΅νΣβαγαγίΣ»’¥—¨’¥–Ί—νΣηλδβη™™δ–εειδλεεηιζζγκ–—βθκ’ι”™ζώύββνδινηδΣΜ»΄΄–΅§Ί΅™ Ε–”©ΞΣΕ–¤¦§νΣγίΣ¶΅”·–”Ό–ªνΣγΣήΣγίΣΊ΅§–¥΅’Ι–¥¤ ΅νΣγίΣΕ–” ΅΅–”§νΣβίΣΎ– ¥ªΈ¦’¥—νΣγΣήΣείΣΎ’”¥ Γ¥ §–”§νΣγΣήΣιίΣΎ– ¥ª²——¥–¤¤νΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγώύββνδινηδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινηδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινηδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινηδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινηδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινηδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινηδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινηδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνδινηδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣζγίΣΎ’«΄ ¦΅§νΣκζηώύββνδινηδΣΜ»΄΄›–”¤¦Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύββνδινηδΣΜ»΄Ί΅§–¥΅’Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣβζίΣΎ’«΄ ¦΅§νΣβζώύββνδινηδΣΜ»΄Θ΅— ¨Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύββνδινηηΣΜ¶΅§¥ªΓ¥ ”ΞΣ·¦£Ώ¤§Ύ’«΄ ¦΅§νΣκζηίΣ΄›–”¤¦Ώ¤§Ύ’«΄ ¦΅§νΣγίΣΊ΅§–¥΅’Ώ¤§Ύ’«΄ ¦΅§νΣβζίΣΘ΅— ¨Ώ¤§Ύ’«΄ ¦΅§νΣγώύββνδινηιΣΜ¶΅§¥ªΓ¥ ”ΞΣΊ΅§’­’§ ΅Σ¤¦””–¤¤™¦ώύββνδινηιΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣκγδιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνδινηιΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύββνδινηιΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣκγδιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνδινηιΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύββνδινηιΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣκγδιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνδινηιΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣκγδιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνδινηκΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣκγδιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνδινηκΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣκγδιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνηβνζδΣήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήώύββνηβνζδΣΜ΄›–”Δª¤§–Ί΅™ ¥’§ ΅ΞΣ΄–΅§Ι–¥¤ ΅νΣβαγαγίΣΔª¤§–Ι–¥¤ ΅νΣιαεακεγγίΣΎ– ¥ªΖ¤’–νΣβγλβδΰδειγι•ώύββνηβνζδΣ²Σ’΅§ή”›–’§Σ›  ¤Σ΅§’­–—Σ¤¦””–¤¤™¦ªαώύββνηβνζδΣΜΔ£’¤›Δ”¥––΅ΞΣΔ£’¤›Ηª£–νΣγίΣΗ–«§Δ¨§”›νΣβίΣ·¤£’ªΗ–«§νΣΏ”–΅¤–—Σ§ νΣΎΖΐ΅΅–ώύββνηβνζδΣΜ΄»΄–΅§Ί΅™ Δ–΅—ΞΣΊ¤Ε–” ΅΅–”§νΣγίΣ΄–΅§Ή–΄Ε΄νΣδ¶θµι²΄ιίΣ»’”Ι–¥¤ ΅νΣβαγαγίΣ»’¥—¨’¥–Ί—νΣηλδβη™™δ–εειδλεεηιζζγκ–—βθκ’ι”™ζώύββνηβνζδΣΜ»΄΄–΅§Ί΅™ Ε–”©ΞΣΕ–¤¦§νΣγίΣ¶΅”·–”Ό–ªνΣγΣήΣγίΣΊ΅§–¥΅’Ι–¥¤ ΅νΣγίΣΕ–” ΅΅–”§νΣβίΣΎ– ¥ªΈ¦’¥—νΣγΣήΣείΣΎ’”¥ Γ¥ §–”§νΣγΣήΣιίΣΎ– ¥ª²——¥–¤¤νΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγώύββνηβνζδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηβνζδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηβνζδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηβνζδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηβνζδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηβνζδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηβνζδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηβνζδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηβνζδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣζγίΣΎ’«΄ ¦΅§νΣκζηώύββνηβνζδΣΜ»΄΄›–”¤¦Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύββνηβνζδΣΜ»΄Ί΅§–¥΅’Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣβζίΣΎ’«΄ ¦΅§νΣβζώύββνηβνζδΣΜ»΄Θ΅— ¨Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύββνηβνζδΣΜ¶΅§¥ªΓ¥ ”ΞΣ·¦£Ώ¤§Ύ’«΄ ¦΅§νΣκζηίΣ΄›–”¤¦Ώ¤§Ύ’«΄ ¦΅§νΣγίΣΊ΅§–¥΅’Ώ¤§Ύ’«΄ ¦΅§νΣβζίΣΘ΅— ¨Ώ¤§Ύ’«΄ ¦΅§νΣγώύββνηβνζζΣΜ¶΅§¥ªΓ¥ ”ΞΣΊ΅§’­’§ ΅Σ¤¦””–¤¤™¦ώύββνηβνζζΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλθηηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηβνζζΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύββνηβνζζΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλθηηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηβνζζΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύββνηβνζζΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλθηηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηβνζζΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλθηηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνηβνζκΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλθηηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηβνζκΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλθηηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνηενδδΣήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήώύββνηενδδΣΜ΄›–”Δª¤§–Ί΅™ ¥’§ ΅ΞΣ΄–΅§Ι–¥¤ ΅νΣβαγαγίΣΔª¤§–Ι–¥¤ ΅νΣιαεακεγγίΣΎ– ¥ªΖ¤’–νΣβγλβεΰδειγι•ώύββνηενδδΣ²Σ’΅§ή”›–’§Σ›  ¤Σ΅§’­–—Σ¤¦””–¤¤™¦ªαώύββνηενδδΣΜΔ£’¤›Δ”¥––΅ΞΣΔ£’¤›Ηª£–νΣγίΣΗ–«§Δ¨§”›νΣβίΣ·¤£’ªΗ–«§νΣΏ”–΅¤–—Σ§ νΣΎΖΐ΅΅–ώύββνηενδδΣΜ΄»΄–΅§Ί΅™ Δ–΅—ΞΣΊ¤Ε–” ΅΅–”§νΣγίΣ΄–΅§Ή–΄Ε΄νΣδ¶θµι²΄ιίΣ»’”Ι–¥¤ ΅νΣβαγαγίΣ»’¥—¨’¥–Ί—νΣηλδβη™™δ–εειδλεεηιζζγκ–—βθκ’ι”™ζώύββνηενδδΣΜ»΄΄–΅§Ί΅™ Ε–”©ΞΣΕ–¤¦§νΣγίΣ¶΅”·–”Ό–ªνΣγΣήΣγίΣΊ΅§–¥΅’Ι–¥¤ ΅νΣγίΣΕ–” ΅΅–”§νΣβίΣΎ– ¥ªΈ¦’¥—νΣγΣήΣείΣΎ’”¥ Γ¥ §–”§νΣγΣήΣιίΣΎ– ¥ª²——¥–¤¤νΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγώύββνηενδδΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηενδηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηενδηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηενδηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηενδηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηενδηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηενδηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηενδηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηενδηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣζγίΣΎ’«΄ ¦΅§νΣκζηώύββνηενδηΣΜ»΄΄›–”¤¦Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύββνηενδηΣΜ»΄Ί΅§–¥΅’Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣβζίΣΎ’«΄ ¦΅§νΣβζώύββνηενδηΣΜ»΄Θ΅— ¨Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύββνηενδηΣΜ¶΅§¥ªΓ¥ ”ΞΣ·¦£Ώ¤§Ύ’«΄ ¦΅§νΣκζηίΣ΄›–”¤¦Ώ¤§Ύ’«΄ ¦΅§νΣγίΣΊ΅§–¥΅’Ώ¤§Ύ’«΄ ¦΅§νΣβζίΣΘ΅— ¨Ώ¤§Ύ’«΄ ¦΅§νΣγώύββνηενδιΣΜ¶΅§¥ªΓ¥ ”ΞΣΊ΅§’­’§ ΅Σ¤¦””–¤¤™¦ώύββνηενδιΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβθιηγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηενδιΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύββνηενδιΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβθιηγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηενδιΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύββνηενδιΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβθιηγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηενδιΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβθιηγίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνηενδκΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβθιηγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηενδκΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβθιηγίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνηηνζβΣήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήώύββνηηνζβΣΜ΄›–”Δª¤§–Ί΅™ ¥’§ ΅ΞΣ΄–΅§Ι–¥¤ ΅νΣβαγαγίΣΔª¤§–Ι–¥¤ ΅νΣιαεακεγγίΣΎ– ¥ªΖ¤’–νΣβγλεκΰδειγι•ώύββνηηνζβΣ²Σ’΅§ή”›–’§Σ›  ¤Σ΅§’­–—Σ¤¦””–¤¤™¦ªαώύββνηηνζβΣΜΔ£’¤›Δ”¥––΅ΞΣΔ£’¤›Ηª£–νΣγίΣΗ–«§Δ¨§”›νΣβίΣ·¤£’ªΗ–«§νΣΏ”–΅¤–—Σ§ νΣΎΖΐ΅΅–ώύββνηηνζβΣΜ΄»΄–΅§Ί΅™ Δ–΅—ΞΣΊ¤Ε–” ΅΅–”§νΣγίΣ΄–΅§Ή–΄Ε΄νΣδ¶θµι²΄ιίΣ»’”Ι–¥¤ ΅νΣβαγαγίΣ»’¥—¨’¥–Ί—νΣηλδβη™™δ–εειδλεεηιζζγκ–—βθκ’ι”™ζώύββνηηνζβΣΜ»΄΄–΅§Ί΅™ Ε–”©ΞΣΕ–¤¦§νΣγίΣ¶΅”·–”Ό–ªνΣγΣήΣγίΣΊ΅§–¥΅’Ι–¥¤ ΅νΣγίΣΕ–” ΅΅–”§νΣβίΣΎ– ¥ªΈ¦’¥—νΣγΣήΣείΣΎ’”¥ Γ¥ §–”§νΣγΣήΣιίΣΎ– ¥ª²——¥–¤¤νΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγώύββνηηνζβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηηνζβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηηνζβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηηνζβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηηνζβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηηνζβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηηνζβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηηνζβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηηνζβΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣζγίΣΎ’«΄ ¦΅§νΣκζηώύββνηηνζβΣΜ»΄΄›–”¤¦Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύββνηηνζβΣΜ»΄Ί΅§–¥΅’Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣβζίΣΎ’«΄ ¦΅§νΣβζώύββνηηνζβΣΜ»΄Θ΅— ¨Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύββνηηνζεΣΜ¶΅§¥ªΓ¥ ”ΞΣ·¦£Ώ¤§Ύ’«΄ ¦΅§νΣκζηίΣ΄›–”¤¦Ώ¤§Ύ’«΄ ¦΅§νΣγίΣΊ΅§–¥΅’Ώ¤§Ύ’«΄ ¦΅§νΣβζίΣΘ΅— ¨Ώ¤§Ύ’«΄ ¦΅§νΣγώύββνηηνζηΣΜ¶΅§¥ªΓ¥ ”ΞΣΊ΅§’­’§ ΅Σ¤¦””–¤¤™¦ώύββνηηνζηΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβηλβεΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηηνζηΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύββνηηνζηΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβηλβεΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηηνζηΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύββνηηνζηΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβηλβεΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηηνζηΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβηλβείΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνηηνζθΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβηλβεΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηηνζθΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβηλβείΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνηκνββΣήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήώύββνηκνββΣΜ΄›–”Δª¤§–Ί΅™ ¥’§ ΅ΞΣ΄–΅§Ι–¥¤ ΅νΣβαγαγίΣΔª¤§–Ι–¥¤ ΅νΣιαεακεγγίΣΎ– ¥ªΖ¤’–νΣβγκγγΰδειγι•ώύββνηκνββΣ²Σ’΅§ή”›–’§Σ›  ¤Σ΅§’­–—Σ¤¦””–¤¤™¦ªαώύββνηκνββΣΜΔ£’¤›Δ”¥––΅ΞΣΔ£’¤›Ηª£–νΣγίΣΗ–«§Δ¨§”›νΣβίΣ·¤£’ªΗ–«§νΣΏ”–΅¤–—Σ§ νΣΎΖΐ΅΅–ώύββνηκνββΣΜ΄»΄–΅§Ί΅™ Δ–΅—ΞΣΊ¤Ε–” ΅΅–”§νΣγίΣ΄–΅§Ή–΄Ε΄νΣδ¶θµι²΄ιίΣ»’”Ι–¥¤ ΅νΣβαγαγίΣ»’¥—¨’¥–Ί—νΣηλδβη™™δ–εειδλεεηιζζγκ–—βθκ’ι”™ζώύββνηκνββΣΜ»΄΄–΅§Ί΅™ Ε–”©ΞΣΕ–¤¦§νΣγίΣ¶΅”·–”Ό–ªνΣγΣήΣγίΣΊ΅§–¥΅’Ι–¥¤ ΅νΣγίΣΕ–” ΅΅–”§νΣβίΣΎ– ¥ªΈ¦’¥—νΣγΣήΣείΣΎ’”¥ Γ¥ §–”§νΣγΣήΣιίΣΎ– ¥ª²——¥–¤¤νΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγώύββνηκνββΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηκνββΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηκνββΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηκνββΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηκνββΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηκνββΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηκνββΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηκνββΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύββνηκνββΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣζγίΣΎ’«΄ ¦΅§νΣκζηώύββνηκνββΣΜ»΄΄›–”¤¦Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύββνηκνββΣΜ»΄Ί΅§–¥΅’Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣβζίΣΎ’«΄ ¦΅§νΣβζώύββνηκνββΣΜ»΄Θ΅— ¨Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύββνηκνβεΣΜ¶΅§¥ªΓ¥ ”ΞΣ·¦£Ώ¤§Ύ’«΄ ¦΅§νΣκζηίΣ΄›–”¤¦Ώ¤§Ύ’«΄ ¦΅§νΣγίΣΊ΅§–¥΅’Ώ¤§Ύ’«΄ ¦΅§νΣβζίΣΘ΅— ¨Ώ¤§Ύ’«΄ ¦΅§νΣγώύββνηκνβηΣΜ¶΅§¥ªΓ¥ ”ΞΣΊ΅§’­’§ ΅Σ¤¦””–¤¤™¦ώύββνηκνβηΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣββκγγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηκνβηΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύββνηκνβηΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣββκγγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηκνβηΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύββνηκνβηΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣββκγγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηκνβηΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣββκγγίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνηκνβθΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣββκγγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνηκνβθΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣββκγγίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνζηνεθΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣββκγγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνζηνεθΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣββκγγίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύββνζκνδεΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣββκγγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύββνζκνδεΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣββκγγίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβενγηνδλΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣββκγγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενγηνδλΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣββκγγίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβενγκνβθΣήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήώύβενγκνβθΣΜ΄›–”Δª¤§–Ί΅™ ¥’§ ΅ΞΣ΄–΅§Ι–¥¤ ΅νΣβαγαγίΣΔª¤§–Ι–¥¤ ΅νΣιαεακεγγίΣΎ– ¥ªΖ¤’–νΣβββγιΰδειγι•ώύβενγκνβθΣ²Σ’΅§ή”›–’§Σ›  ¤Σ΅§’­–—Σ¤¦””–¤¤™¦ªαώύβενγκνβθΣΜΔ£’¤›Δ”¥––΅ΞΣΔ£’¤›Ηª£–νΣγίΣΗ–«§Δ¨§”›νΣβίΣ·¤£’ªΗ–«§νΣΏ”–΅¤–—Σ§ νΣΎΖΐ΅΅–ώύβενγκνβθΣΜ΄»΄–΅§Ί΅™ Δ–΅—ΞΣΊ¤Ε–” ΅΅–”§νΣγίΣ΄–΅§Ή–΄Ε΄νΣδ¶θµι²΄ιίΣ»’”Ι–¥¤ ΅νΣβαγαγίΣ»’¥—¨’¥–Ί—νΣηλδβη™™δ–εειδλεεηιζζγκ–—βθκ’ι”™ζώύβενγκνβθΣΜ»΄΄–΅§Ί΅™ Ε–”©ΞΣΕ–¤¦§νΣγίΣ¶΅”·–”Ό–ªνΣγΣήΣγίΣΊ΅§–¥΅’Ι–¥¤ ΅νΣγίΣΕ–” ΅΅–”§νΣβίΣΎ– ¥ªΈ¦’¥—νΣγΣήΣείΣΎ’”¥ Γ¥ §–”§νΣγΣήΣιίΣΎ– ¥ª²——¥–¤¤νΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγώύβενγκνβθΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενγκνβθΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενγκνβθΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενγκνβθΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενγκνβθΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενγκνβθΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενγκνβθΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενγκνβθΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενγκνβθΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣζγίΣΎ’«΄ ¦΅§νΣκζηώύβενγκνβθΣΜ»΄΄›–”¤¦Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύβενγκνβθΣΜ»΄Ί΅§–¥΅’Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣβζίΣΎ’«΄ ¦΅§νΣβζώύβενγκνβθΣΜ»΄Θ΅— ¨Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύβενγκνβθΣΜ¶΅§¥ªΓ¥ ”ΞΣ·¦£Ώ¤§Ύ’«΄ ¦΅§νΣκζηίΣ΄›–”¤¦Ώ¤§Ύ’«΄ ¦΅§νΣγίΣΊ΅§–¥΅’Ώ¤§Ύ’«΄ ¦΅§νΣβζίΣΘ΅— ¨Ώ¤§Ύ’«΄ ¦΅§νΣγώύβενγκνβκΣΜ¶΅§¥ªΓ¥ ”ΞΣΊ΅§’­’§ ΅Σ¤¦””–¤¤™¦ώύβενγκνβκΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβηλγγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενγκνβκΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύβενγκνβκΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβηλγγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενγκνβκΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύβενγκνβκΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβηλγγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενγκνβκΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβηλγγίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβενγκνεδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβηλγγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενγκνεδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβηλγγίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβενβηνδδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβηλγγΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενβηνδδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβηλγγίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβενβινηηΣήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήώύβενβινηηΣΜ΄›–”Δª¤§–Ί΅™ ¥’§ ΅ΞΣ΄–΅§Ι–¥¤ ΅νΣβαγαγίΣΔª¤§–Ι–¥¤ ΅νΣιαεακεγγίΣΎ– ¥ªΖ¤’–νΣβββκλΰδειγι•ώύβενβινηηΣ²Σ’΅§ή”›–’§Σ›  ¤Σ΅§’­–—Σ¤¦””–¤¤™¦ªαώύβενβινηηΣΜΔ£’¤›Δ”¥––΅ΞΣΔ£’¤›Ηª£–νΣγίΣΗ–«§Δ¨§”›νΣβίΣ·¤£’ªΗ–«§νΣΏ”–΅¤–—Σ§ νΣΎΖΐ΅΅–ώύβενβινηηΣΜ΄»΄–΅§Ί΅™ Δ–΅—ΞΣΊ¤Ε–” ΅΅–”§νΣγίΣ΄–΅§Ή–΄Ε΄νΣδ¶θµι²΄ιίΣ»’”Ι–¥¤ ΅νΣβαγαγίΣ»’¥—¨’¥–Ί—νΣηλδβη™™δ–εειδλεεηιζζγκ–—βθκ’ι”™ζώύβενβινηηΣΜ»΄΄–΅§Ί΅™ Ε–”©ΞΣΕ–¤¦§νΣγίΣ¶΅”·–”Ό–ªνΣγΣήΣγίΣΊ΅§–¥΅’Ι–¥¤ ΅νΣγίΣΕ–” ΅΅–”§νΣβίΣΎ– ¥ªΈ¦’¥—νΣγΣήΣείΣΎ’”¥ Γ¥ §–”§νΣγΣήΣιίΣΎ– ¥ª²——¥–¤¤νΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγώύβενβινηηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενβινηηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενβινηηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενβινηηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενβινηηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενβινηηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενβινηηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενβινηηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβενβινηηΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣζγίΣΎ’«΄ ¦΅§νΣκζηώύβενβινηηΣΜ»΄΄›–”¤¦Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύβενβινηηΣΜ»΄Ί΅§–¥΅’Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣβζίΣΎ’«΄ ¦΅§νΣβζώύβενβινηηΣΜ»΄Θ΅— ¨Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύβενβινηηΣΜ¶΅§¥ªΓ¥ ”ΞΣ·¦£Ώ¤§Ύ’«΄ ¦΅§νΣκζηίΣ΄›–”¤¦Ώ¤§Ύ’«΄ ¦΅§νΣγίΣΊ΅§–¥΅’Ώ¤§Ύ’«΄ ¦΅§νΣβζίΣΘ΅— ¨Ώ¤§Ύ’«΄ ¦΅§νΣγώύβενβινηιΣΜ¶΅§¥ªΓ¥ ”ΞΣΊ΅§’­’§ ΅Σ¤¦””–¤¤™¦ώύβενβινηιΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενβινηιΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύβενβινηιΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενβινηιΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύβενβινηιΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενβινηιΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβενβινζγΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενβινζγΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβενεενγγΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενεενγγΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβενεθνγζΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενεθνγζΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβενελνβηΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενελνβηΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγβγγγώύβενελνβηΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενελνβηΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγβγγγώύβενδενβγΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενδενβγΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβενδθνβιΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενδθνβιΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβενηενεβΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενηενεβΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβενηθνειΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενηθνειΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβενζενδβΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενζενδβΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβενζθνδζΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβενζθνδζΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβδνγενηβΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβδνγενηβΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβδνγθνηζΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβδνγθνηζΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβδνβενζγΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβδνβενζγΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβδνβθνζζΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβδνβθνζζΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβδνεδνγγΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβδνεδνγγΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβδνελνγζΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβδνελνγζΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβδνδδνγκΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβδνδδνγκΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβδνδλνβηΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβδνδλνβηΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβδνηδνβκΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβδνηδνβκΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβδνηλνεηΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβδνηλνεηΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβδνζδνελΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβδνζδνελΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβδνζλνδδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβδνζλνδδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνγδνδλΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνγδνδλΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνγλνηδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνγλνηδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνβδνηλΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνβδνηλΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνβλνζδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνβλνζδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνεδνζλΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνεδνζλΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνεκνγεΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνεκνγεΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνδηνγθΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβλλθιΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνδηνγθΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβλλθιίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνδινβθΣήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήώύβηνδινβθΣΜ΄›–”Δª¤§–Ί΅™ ¥’§ ΅ΞΣ΄–΅§Ι–¥¤ ΅νΣβαγαγίΣΔª¤§–Ι–¥¤ ΅νΣιαεακεγγίΣΎ– ¥ªΖ¤’–νΣβηδκθΰδειγι•ώύβηνδινβθΣ²Σ’΅§ή”›–’§Σ›  ¤Σ΅§’­–—Σ¤¦””–¤¤™¦ªαώύβηνδινβθΣΜΔ£’¤›Δ”¥––΅ΞΣΔ£’¤›Ηª£–νΣγίΣΗ–«§Δ¨§”›νΣβίΣ·¤£’ªΗ–«§νΣΏ”–΅¤–—Σ§ νΣΎΖΐ΅΅–ώύβηνδινβθΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνδινβθΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβεγιηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνδινβθΣΜ΄»΄–΅§Ί΅™ Δ–΅—ΞΣΊ¤Ε–” ΅΅–”§νΣγίΣ΄–΅§Ή–΄Ε΄νΣδ¶θµι²΄ιίΣ»’”Ι–¥¤ ΅νΣβαγαγίΣ»’¥—¨’¥–Ί—νΣηλδβη™™δ–εειδλεεηιζζγκ–—βθκ’ι”™ζώύβηνδινβθΣΜ»΄΄–΅§Ί΅™ Ε–”©ΞΣΕ–¤¦§νΣγίΣ¶΅”·–”Ό–ªνΣγΣήΣγίΣΊ΅§–¥΅’Ι–¥¤ ΅νΣγίΣΕ–” ΅΅–”§νΣβίΣΎ– ¥ªΈ¦’¥—νΣγΣήΣείΣΎ’”¥ Γ¥ §–”§νΣγΣήΣιίΣΎ– ¥ª²——¥–¤¤νΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγώύβηνδινβλΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβηνδινβλΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβηνδινβλΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβηνδινβλΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβηνδινβλΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβηνδινβλΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβηνδινβλΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβηνδινβλΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβηνδινβλΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣζγίΣΎ’«΄ ¦΅§νΣκζηώύβηνδινβλΣΜ»΄΄›–”¤¦Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύβηνδινβλΣΜ»΄Ί΅§–¥΅’Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣβζίΣΎ’«΄ ¦΅§νΣβζώύβηνδινβλΣΜ»΄Θ΅— ¨Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύβηνδινβλΣΜ¶΅§¥ªΓ¥ ”ΞΣ·¦£Ώ¤§Ύ’«΄ ¦΅§νΣκζηίΣ΄›–”¤¦Ώ¤§Ύ’«΄ ¦΅§νΣγίΣΊ΅§–¥΅’Ώ¤§Ύ’«΄ ¦΅§νΣβζίΣΘ΅— ¨Ώ¤§Ύ’«΄ ¦΅§νΣγώύβηνδινεγΣΜ¶΅§¥ªΓ¥ ”ΞΣΊ΅§’­’§ ΅Σ¤¦””–¤¤™¦ώύβηνδινεγΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνδινεγΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύβηνδινεγΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνδινεγΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύβηνδινεγΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνδινεγΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβεγιηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνδινεγΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνδινεγΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβεγιηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνδινεγΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνδινεγΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβεγιηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνδινεηΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνδινεηΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβεγιηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνηβνδδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνηβνδδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβεγιηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνηινδλΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνηινδλΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβεγιηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνζβνηδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνζβνηδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβεγιηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβηνζινηλΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβηνζινηλΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβεγιηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβζνγβνζδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνγβνζδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβεγιηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβζνγινζθΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνγινζθΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβεγιηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβζνβενγεΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνβενγεΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβεγιηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβζνβθνγθΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣβεγιηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνβθνγθΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣβεγιηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβζνδδνζζΣήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήήώύβζνδδνζζΣΜ΄›–”Δª¤§–Ί΅™ ¥’§ ΅ΞΣ΄–΅§Ι–¥¤ ΅νΣβαγαγίΣΔª¤§–Ι–¥¤ ΅νΣιαεακεγγίΣΎ– ¥ªΖ¤’–νΣβδειεΰδειγι•ώύβζνδδνζζΣ²Σ’΅§ή”›–’§Σ›  ¤Σ΅§’­–—Σ¤¦””–¤¤™¦ªαώύβζνδδνζζΣΜΔ£’¤›Δ”¥––΅ΞΣΔ£’¤›Ηª£–νΣγίΣΗ–«§Δ¨§”›νΣβίΣ·¤£’ªΗ–«§νΣΏ”–΅¤–—Σ§ νΣΎΖΐ΅΅–ώύβζνδδνζιΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνδδνζιΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβζνδδνζιΣΜ΄»΄–΅§Ί΅™ Δ–΅—ΞΣΊ¤Ε–” ΅΅–”§νΣγίΣ΄–΅§Ή–΄Ε΄νΣδ¶θµι²΄ιίΣ»’”Ι–¥¤ ΅νΣβαγαγίΣ»’¥—¨’¥–Ί—νΣηλδβη™™δ–εειδλεεηιζζγκ–—βθκ’ι”™ζώύβζνδδνζιΣΜ»΄΄–΅§Ί΅™ Ε–”©ΞΣΕ–¤¦§νΣγίΣ¶΅”·–”Ό–ªνΣγΣήΣγίΣΊ΅§–¥΅’Ι–¥¤ ΅νΣγίΣΕ–” ΅΅–”§νΣβίΣΎ– ¥ªΈ¦’¥—νΣγΣήΣείΣΎ’”¥ Γ¥ §–”§νΣγΣήΣιίΣΎ– ¥ª²——¥–¤¤νΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγΣήΣγώύβζνδδνζιΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβζνδδνζιΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβζνδδνζιΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβζνδδνζιΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβζνδδνζιΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβζνδδνζιΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβζνδδνζιΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβζνδδνζιΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣββδίΣΎ’«΄ ¦΅§νΣκζηώύβζνδδνζιΣΜ»΄·¦£Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣζγίΣΎ’«΄ ¦΅§νΣκζηώύβζνδδνζιΣΜ»΄΄›–”¤¦Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύβζνδδνζιΣΜ»΄Ί΅§–¥΅’Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣβζίΣΎ’«΄ ¦΅§νΣβζώύβζνδδνζιΣΜ»΄Θ΅— ¨Ώ¤§Ε–”©ΞΣ΄ ¦΅§νΣγίΣΎ’«΄ ¦΅§νΣγώύβζνδδνζιΣΜ¶΅§¥ªΓ¥ ”ΞΣ·¦£Ώ¤§Ύ’«΄ ¦΅§νΣκζηίΣ΄›–”¤¦Ώ¤§Ύ’«΄ ¦΅§νΣγίΣΊ΅§–¥΅’Ώ¤§Ύ’«΄ ¦΅§νΣβζίΣΘ΅— ¨Ώ¤§Ύ’«΄ ¦΅§νΣγώύβζνδδνζλΣΜ¶΅§¥ªΓ¥ ”ΞΣΊ΅§’­’§ ΅Σ¤¦””–¤¤™¦ώύβζνδδνζλΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνδδνζλΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύβζνδδνζλΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνδδνζλΣ΄¥–’§–Η  ›–£δεΔ΅’£¤› §Σ”’–—Σ¨§›Σ™’¤νΣγ«γγγγγγγεΣ™ ¥Σ ¦¥Σ£¥ ”–¤¤ώύβζνδδνζλΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνδδνζλΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβζνδδνζλΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνδδνζλΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβζνδδνζλΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνδδνζλΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβζνδηνγεΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνδηνγεΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβζνδκνβεΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνδκνβεΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβζνηηνβθΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνηηνβθΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβζνηκνεεΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνηκνεεΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβζνζηνεθΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνζηνεθΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβζνζκνδεΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβζνζκνδεΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβινγηνδθΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβινγηνδθΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβινγκνηεΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβινγκνηεΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβινβηνηθΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβινβηνηθΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβινβκνζεΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβινβκνζεΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβινεηνζθΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβινεηνζθΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβινδγνγδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβινδγνγδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβινδζνγλΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβινδζνγλΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβινηγνβδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβινηγνβδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβινηζνβλΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβινηζνβλΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβινζγνεδΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβινζγνεδΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύβινζζνεκΣµ ”–—ΣΑ§ΐ£–΅Γ¥ ”–¤¤Σ’§§–£§Σ§ Σ’””–¤¤Σ ¦¥Σ£¥ ”–¤¤ΣΫΓΊ·νΣεγειηΪΣ¨§›Σ’””–¤¤Σ¥›§¤νΣγ«γγγγγηβγώύβινζζνεκΣΓ¥–©–΅§–—Σΐ£–΅Γ¥ ”–¤¤Σ’””–¤¤Σ§ Σ ¦¥Σ£¥ ”–¤¤Σ™¥ ΣΓΊ·νΣεγειηίΣΓ¥ ”–¤¤νΣΖ΅΅ ¨΅ίΣ²””–¤¤νΣγ«γγγγγηβγώύ

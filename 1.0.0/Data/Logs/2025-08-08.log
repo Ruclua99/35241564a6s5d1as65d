@@ -1,0 +1,22 @@
+18:14:52 ----------------------------------------------------------------------------------------------------
+18:14:52 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 32163/65454mb
+18:14:52 All anti-cheat hooks initialized successfully.
+18:14:52 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+18:14:54 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+18:14:54 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+18:14:54 [HCDumpListRecv] Count: 0, MaxCount: 0
+18:14:54 [HCChecksumListRecv] Count: 0, MaxCount: 0
+18:14:54 [HCInternalListRecv] Count: 0, MaxCount: 0
+18:14:54 [HCWindowListRecv] Count: 0, MaxCount: 0
+18:14:54 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+18:14:54 Blocked NtOpenProcess attempt to access our process (PID: 45412) with access rights: 0x00000410
+18:14:54 Prevented OpenProcess access to our process from PID: 45412, Process: Unknown, Access: 0x00000410
+18:14:56 [EntryProc] Initialization successful
+18:14:56 Blocked NtOpenProcess attempt to access our process (PID: 45412) with access rights: 0x00000410
+18:14:56 Prevented OpenProcess access to our process from PID: 45412, Process: Unknown, Access: 0x00000410
+18:14:56 Blocked NtOpenProcess attempt to access our process (PID: 45412) with access rights: 0x00000410
+18:14:56 Prevented OpenProcess access to our process from PID: 45412, Process: Unknown, Access: 0x00000410
+18:14:56 Blocked NtOpenProcess attempt to access our process (PID: 45412) with access rights: 0x00000410
+18:14:56 Prevented OpenProcess access to our process from PID: 45412, Process: Unknown, Access: 0x00000410
+18:14:56 Blocked NtOpenProcess attempt to access our process (PID: 45412) with access rights: 0x00000410
+18:14:56 Prevented OpenProcess access to our process from PID: 45412, Process: Unknown, Access: 0x00000410

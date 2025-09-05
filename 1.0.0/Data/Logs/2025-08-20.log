@@ -1,0 +1,10 @@
+00:02:00 Blocked NtOpenProcess attempt to access our process (PID: 28444) with access rights: 0x00000410
+00:02:00 Prevented OpenProcess access to our process from PID: 28444, Process: Unknown, Access: 0x00000410
+00:07:02 Blocked NtOpenProcess attempt to access our process (PID: 28444) with access rights: 0x00000410
+00:07:02 Prevented OpenProcess access to our process from PID: 28444, Process: Unknown, Access: 0x00000410
+00:12:03 Blocked NtOpenProcess attempt to access our process (PID: 28444) with access rights: 0x00000410
+00:12:03 Prevented OpenProcess access to our process from PID: 28444, Process: Unknown, Access: 0x00000410
+00:17:05 Blocked NtOpenProcess attempt to access our process (PID: 28444) with access rights: 0x00000410
+00:17:05 Prevented OpenProcess access to our process from PID: 28444, Process: Unknown, Access: 0x00000410
+00:22:07 Blocked NtOpenProcess attempt to access our process (PID: 28444) with access rights: 0x00000410
+00:22:07 Prevented OpenProcess access to our process from PID: 28444, Process: Unknown, Access: 0x00000410

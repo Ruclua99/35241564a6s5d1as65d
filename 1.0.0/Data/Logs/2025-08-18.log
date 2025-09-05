@@ -1,0 +1,262 @@
+21:14:40 ----------------------------------------------------------------------------------------------------
+21:14:40 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 21751/65454mb
+21:14:40 All anti-cheat hooks initialized successfully.
+21:14:40 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+21:14:41 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+21:14:41 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+21:14:41 [HCDumpListRecv] Count: 0, MaxCount: 0
+21:14:41 [HCChecksumListRecv] Count: 0, MaxCount: 0
+21:14:41 [HCInternalListRecv] Count: 0, MaxCount: 0
+21:14:41 [HCWindowListRecv] Count: 0, MaxCount: 0
+21:14:42 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+21:14:42 Blocked NtOpenProcess attempt to access our process (PID: 13404) with access rights: 0x00000410
+21:14:42 Prevented OpenProcess access to our process from PID: 13404, Process: Unknown, Access: 0x00000410
+21:14:44 [EntryProc] Initialization successful
+21:14:44 Blocked NtOpenProcess attempt to access our process (PID: 13404) with access rights: 0x00000410
+21:14:44 Prevented OpenProcess access to our process from PID: 13404, Process: Unknown, Access: 0x00000410
+21:14:44 Blocked NtOpenProcess attempt to access our process (PID: 13404) with access rights: 0x00000410
+21:14:44 Prevented OpenProcess access to our process from PID: 13404, Process: Unknown, Access: 0x00000410
+21:14:44 Blocked NtOpenProcess attempt to access our process (PID: 13404) with access rights: 0x00000410
+21:14:44 Prevented OpenProcess access to our process from PID: 13404, Process: Unknown, Access: 0x00000410
+21:14:44 Blocked NtOpenProcess attempt to access our process (PID: 13404) with access rights: 0x00000410
+21:14:44 Prevented OpenProcess access to our process from PID: 13404, Process: Unknown, Access: 0x00000410
+21:19:43 Blocked NtOpenProcess attempt to access our process (PID: 13404) with access rights: 0x00000410
+21:19:43 Prevented OpenProcess access to our process from PID: 13404, Process: Unknown, Access: 0x00000410
+21:24:45 Blocked NtOpenProcess attempt to access our process (PID: 13404) with access rights: 0x00000410
+21:24:45 Prevented OpenProcess access to our process from PID: 13404, Process: Unknown, Access: 0x00000410
+21:27:36 ----------------------------------------------------------------------------------------------------
+21:27:36 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 24679/65454mb
+21:27:36 All anti-cheat hooks initialized successfully.
+21:27:36 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+21:27:37 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+21:27:37 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+21:27:37 [HCDumpListRecv] Count: 0, MaxCount: 0
+21:27:37 [HCChecksumListRecv] Count: 0, MaxCount: 0
+21:27:37 [HCInternalListRecv] Count: 0, MaxCount: 0
+21:27:37 [HCWindowListRecv] Count: 0, MaxCount: 0
+21:27:38 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+21:27:38 Blocked NtOpenProcess attempt to access our process (PID: 31528) with access rights: 0x00000410
+21:27:38 Prevented OpenProcess access to our process from PID: 31528, Process: Unknown, Access: 0x00000410
+21:27:40 [EntryProc] Initialization successful
+21:27:40 Blocked NtOpenProcess attempt to access our process (PID: 31528) with access rights: 0x00000410
+21:27:40 Prevented OpenProcess access to our process from PID: 31528, Process: Unknown, Access: 0x00000410
+21:27:40 Blocked NtOpenProcess attempt to access our process (PID: 31528) with access rights: 0x00000410
+21:27:40 Prevented OpenProcess access to our process from PID: 31528, Process: Unknown, Access: 0x00000410
+21:27:40 Blocked NtOpenProcess attempt to access our process (PID: 31528) with access rights: 0x00000410
+21:27:40 Prevented OpenProcess access to our process from PID: 31528, Process: Unknown, Access: 0x00000410
+21:27:40 Blocked NtOpenProcess attempt to access our process (PID: 31528) with access rights: 0x00000410
+21:27:40 Prevented OpenProcess access to our process from PID: 31528, Process: Unknown, Access: 0x00000410
+21:27:57 ----------------------------------------------------------------------------------------------------
+21:27:57 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 24451/65454mb
+21:27:57 All anti-cheat hooks initialized successfully.
+21:27:57 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+21:27:58 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+21:27:58 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+21:27:58 [HCDumpListRecv] Count: 0, MaxCount: 0
+21:27:58 [HCChecksumListRecv] Count: 0, MaxCount: 0
+21:27:58 [HCInternalListRecv] Count: 0, MaxCount: 0
+21:27:58 [HCWindowListRecv] Count: 0, MaxCount: 0
+21:27:59 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+21:27:59 Blocked NtOpenProcess attempt to access our process (PID: 32656) with access rights: 0x00000410
+21:27:59 Prevented OpenProcess access to our process from PID: 32656, Process: Unknown, Access: 0x00000410
+21:28:01 [EntryProc] Initialization successful
+21:28:01 Blocked NtOpenProcess attempt to access our process (PID: 32656) with access rights: 0x00000410
+21:28:01 Prevented OpenProcess access to our process from PID: 32656, Process: Unknown, Access: 0x00000410
+21:28:01 Blocked NtOpenProcess attempt to access our process (PID: 32656) with access rights: 0x00000410
+21:28:01 Prevented OpenProcess access to our process from PID: 32656, Process: Unknown, Access: 0x00000410
+21:28:01 Blocked NtOpenProcess attempt to access our process (PID: 32656) with access rights: 0x00000410
+21:28:01 Prevented OpenProcess access to our process from PID: 32656, Process: Unknown, Access: 0x00000410
+21:28:01 Blocked NtOpenProcess attempt to access our process (PID: 32656) with access rights: 0x00000410
+21:28:01 Prevented OpenProcess access to our process from PID: 32656, Process: Unknown, Access: 0x00000410
+21:28:54 ----------------------------------------------------------------------------------------------------
+21:28:54 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 24585/65454mb
+21:28:54 All anti-cheat hooks initialized successfully.
+21:28:54 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+21:28:54 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+21:28:54 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+21:28:54 [HCDumpListRecv] Count: 0, MaxCount: 0
+21:28:54 [HCChecksumListRecv] Count: 0, MaxCount: 0
+21:28:54 [HCInternalListRecv] Count: 0, MaxCount: 0
+21:28:54 [HCWindowListRecv] Count: 0, MaxCount: 0
+21:28:55 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+21:28:55 Blocked NtOpenProcess attempt to access our process (PID: 21680) with access rights: 0x00000410
+21:28:55 Prevented OpenProcess access to our process from PID: 21680, Process: Unknown, Access: 0x00000410
+21:28:57 [EntryProc] Initialization successful
+21:28:57 Blocked NtOpenProcess attempt to access our process (PID: 21680) with access rights: 0x00000410
+21:28:57 Prevented OpenProcess access to our process from PID: 21680, Process: Unknown, Access: 0x00000410
+21:28:57 Blocked NtOpenProcess attempt to access our process (PID: 21680) with access rights: 0x00000410
+21:28:57 Prevented OpenProcess access to our process from PID: 21680, Process: Unknown, Access: 0x00000410
+21:28:57 Blocked NtOpenProcess attempt to access our process (PID: 21680) with access rights: 0x00000410
+21:28:57 Prevented OpenProcess access to our process from PID: 21680, Process: Unknown, Access: 0x00000410
+21:28:57 Blocked NtOpenProcess attempt to access our process (PID: 21680) with access rights: 0x00000410
+21:28:57 Prevented OpenProcess access to our process from PID: 21680, Process: Unknown, Access: 0x00000410
+21:29:45 ----------------------------------------------------------------------------------------------------
+21:29:45 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 24832/65454mb
+21:29:45 All anti-cheat hooks initialized successfully.
+21:29:45 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+21:29:46 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+21:29:46 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+21:29:46 [HCDumpListRecv] Count: 0, MaxCount: 0
+21:29:46 [HCChecksumListRecv] Count: 0, MaxCount: 0
+21:29:46 [HCInternalListRecv] Count: 0, MaxCount: 0
+21:29:46 [HCWindowListRecv] Count: 0, MaxCount: 0
+21:29:46 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+21:29:46 Blocked NtOpenProcess attempt to access our process (PID: 25748) with access rights: 0x00000410
+21:29:46 Prevented OpenProcess access to our process from PID: 25748, Process: Unknown, Access: 0x00000410
+21:29:48 [EntryProc] Initialization successful
+21:29:48 Blocked NtOpenProcess attempt to access our process (PID: 25748) with access rights: 0x00000410
+21:29:48 Prevented OpenProcess access to our process from PID: 25748, Process: Unknown, Access: 0x00000410
+21:29:48 Blocked NtOpenProcess attempt to access our process (PID: 25748) with access rights: 0x00000410
+21:29:48 Prevented OpenProcess access to our process from PID: 25748, Process: Unknown, Access: 0x00000410
+21:29:48 Blocked NtOpenProcess attempt to access our process (PID: 25748) with access rights: 0x00000410
+21:29:48 Prevented OpenProcess access to our process from PID: 25748, Process: Unknown, Access: 0x00000410
+21:29:48 Blocked NtOpenProcess attempt to access our process (PID: 25748) with access rights: 0x00000410
+21:29:48 Prevented OpenProcess access to our process from PID: 25748, Process: Unknown, Access: 0x00000410
+21:30:51 ----------------------------------------------------------------------------------------------------
+21:30:51 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 24299/65454mb
+21:30:51 All anti-cheat hooks initialized successfully.
+21:30:51 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+21:30:52 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+21:30:52 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+21:30:52 [HCDumpListRecv] Count: 0, MaxCount: 0
+21:30:52 [HCChecksumListRecv] Count: 0, MaxCount: 0
+21:30:52 [HCInternalListRecv] Count: 0, MaxCount: 0
+21:30:52 [HCWindowListRecv] Count: 0, MaxCount: 0
+21:30:52 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+21:30:52 Blocked NtOpenProcess attempt to access our process (PID: 13476) with access rights: 0x00000410
+21:30:52 Prevented OpenProcess access to our process from PID: 13476, Process: Unknown, Access: 0x00000410
+21:30:54 [EntryProc] Initialization successful
+21:30:54 Blocked NtOpenProcess attempt to access our process (PID: 13476) with access rights: 0x00000410
+21:30:54 Prevented OpenProcess access to our process from PID: 13476, Process: Unknown, Access: 0x00000410
+21:30:54 Blocked NtOpenProcess attempt to access our process (PID: 13476) with access rights: 0x00000410
+21:30:54 Prevented OpenProcess access to our process from PID: 13476, Process: Unknown, Access: 0x00000410
+21:30:54 Blocked NtOpenProcess attempt to access our process (PID: 13476) with access rights: 0x00000410
+21:30:54 Prevented OpenProcess access to our process from PID: 13476, Process: Unknown, Access: 0x00000410
+21:30:54 Blocked NtOpenProcess attempt to access our process (PID: 13476) with access rights: 0x00000410
+21:30:54 Prevented OpenProcess access to our process from PID: 13476, Process: Unknown, Access: 0x00000410
+21:35:48 ----------------------------------------------------------------------------------------------------
+21:35:48 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 24566/65454mb
+21:35:48 All anti-cheat hooks initialized successfully.
+21:35:48 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+21:35:49 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+21:35:49 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+21:35:49 [HCDumpListRecv] Count: 0, MaxCount: 0
+21:35:49 [HCChecksumListRecv] Count: 0, MaxCount: 0
+21:35:49 [HCInternalListRecv] Count: 0, MaxCount: 0
+21:35:49 [HCWindowListRecv] Count: 0, MaxCount: 0
+21:35:50 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+21:35:50 Blocked NtOpenProcess attempt to access our process (PID: 17624) with access rights: 0x00000410
+21:35:50 Prevented OpenProcess access to our process from PID: 17624, Process: Unknown, Access: 0x00000410
+21:35:52 [EntryProc] Initialization successful
+21:35:52 Blocked NtOpenProcess attempt to access our process (PID: 17624) with access rights: 0x00000410
+21:35:52 Prevented OpenProcess access to our process from PID: 17624, Process: Unknown, Access: 0x00000410
+21:35:52 Blocked NtOpenProcess attempt to access our process (PID: 17624) with access rights: 0x00000410
+21:35:52 Prevented OpenProcess access to our process from PID: 17624, Process: Unknown, Access: 0x00000410
+21:35:52 Blocked NtOpenProcess attempt to access our process (PID: 17624) with access rights: 0x00000410
+21:35:52 Prevented OpenProcess access to our process from PID: 17624, Process: Unknown, Access: 0x00000410
+21:35:52 Blocked NtOpenProcess attempt to access our process (PID: 17624) with access rights: 0x00000410
+21:35:52 Prevented OpenProcess access to our process from PID: 17624, Process: Unknown, Access: 0x00000410
+21:36:41 ----------------------------------------------------------------------------------------------------
+21:36:41 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 25160/65454mb
+21:36:41 All anti-cheat hooks initialized successfully.
+21:36:41 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+21:36:42 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+21:36:42 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+21:36:42 [HCDumpListRecv] Count: 0, MaxCount: 0
+21:36:42 [HCChecksumListRecv] Count: 0, MaxCount: 0
+21:36:42 [HCInternalListRecv] Count: 0, MaxCount: 0
+21:36:42 [HCWindowListRecv] Count: 0, MaxCount: 0
+21:36:43 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+21:36:43 Blocked NtOpenProcess attempt to access our process (PID: 11424) with access rights: 0x00000410
+21:36:43 Prevented OpenProcess access to our process from PID: 11424, Process: Unknown, Access: 0x00000410
+21:36:45 [EntryProc] Initialization successful
+21:36:45 Blocked NtOpenProcess attempt to access our process (PID: 11424) with access rights: 0x00000410
+21:36:45 Prevented OpenProcess access to our process from PID: 11424, Process: Unknown, Access: 0x00000410
+21:36:45 Blocked NtOpenProcess attempt to access our process (PID: 11424) with access rights: 0x00000410
+21:36:45 Prevented OpenProcess access to our process from PID: 11424, Process: Unknown, Access: 0x00000410
+21:36:45 Blocked NtOpenProcess attempt to access our process (PID: 11424) with access rights: 0x00000410
+21:36:45 Prevented OpenProcess access to our process from PID: 11424, Process: Unknown, Access: 0x00000410
+21:36:45 Blocked NtOpenProcess attempt to access our process (PID: 11424) with access rights: 0x00000410
+21:36:45 Prevented OpenProcess access to our process from PID: 11424, Process: Unknown, Access: 0x00000410
+21:37:51 ----------------------------------------------------------------------------------------------------
+21:37:51 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 25926/65454mb
+21:37:51 All anti-cheat hooks initialized successfully.
+21:37:51 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+21:37:52 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+21:37:52 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+21:37:52 [HCDumpListRecv] Count: 0, MaxCount: 0
+21:37:52 [HCChecksumListRecv] Count: 0, MaxCount: 0
+21:37:52 [HCInternalListRecv] Count: 0, MaxCount: 0
+21:37:52 [HCWindowListRecv] Count: 0, MaxCount: 0
+21:37:52 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+21:37:52 Blocked NtOpenProcess attempt to access our process (PID: 31824) with access rights: 0x00000410
+21:37:52 Prevented OpenProcess access to our process from PID: 31824, Process: Unknown, Access: 0x00000410
+21:37:54 [EntryProc] Initialization successful
+21:37:54 Blocked NtOpenProcess attempt to access our process (PID: 31824) with access rights: 0x00000410
+21:37:54 Prevented OpenProcess access to our process from PID: 31824, Process: Unknown, Access: 0x00000410
+21:37:54 Blocked NtOpenProcess attempt to access our process (PID: 31824) with access rights: 0x00000410
+21:37:54 Prevented OpenProcess access to our process from PID: 31824, Process: Unknown, Access: 0x00000410
+21:37:54 Blocked NtOpenProcess attempt to access our process (PID: 31824) with access rights: 0x00000410
+21:37:54 Prevented OpenProcess access to our process from PID: 31824, Process: Unknown, Access: 0x00000410
+21:37:54 Blocked NtOpenProcess attempt to access our process (PID: 31824) with access rights: 0x00000410
+21:37:54 Prevented OpenProcess access to our process from PID: 31824, Process: Unknown, Access: 0x00000410
+21:42:30 ----------------------------------------------------------------------------------------------------
+21:42:30 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 25405/65454mb
+21:42:30 All anti-cheat hooks initialized successfully.
+21:42:30 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+21:42:31 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+21:42:31 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+21:42:31 [HCDumpListRecv] Count: 0, MaxCount: 0
+21:42:31 [HCChecksumListRecv] Count: 0, MaxCount: 0
+21:42:31 [HCInternalListRecv] Count: 0, MaxCount: 0
+21:42:31 [HCWindowListRecv] Count: 0, MaxCount: 0
+21:42:32 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+21:42:32 Blocked NtOpenProcess attempt to access our process (PID: 20412) with access rights: 0x00000410
+21:42:32 Prevented OpenProcess access to our process from PID: 20412, Process: Unknown, Access: 0x00000410
+21:42:34 [EntryProc] Initialization successful
+21:42:34 Blocked NtOpenProcess attempt to access our process (PID: 20412) with access rights: 0x00000410
+21:42:34 Prevented OpenProcess access to our process from PID: 20412, Process: Unknown, Access: 0x00000410
+21:42:34 Blocked NtOpenProcess attempt to access our process (PID: 20412) with access rights: 0x00000410
+21:42:34 Prevented OpenProcess access to our process from PID: 20412, Process: Unknown, Access: 0x00000410
+21:42:34 Blocked NtOpenProcess attempt to access our process (PID: 20412) with access rights: 0x00000410
+21:42:34 Prevented OpenProcess access to our process from PID: 20412, Process: Unknown, Access: 0x00000410
+21:42:34 Blocked NtOpenProcess attempt to access our process (PID: 20412) with access rights: 0x00000410
+21:42:34 Prevented OpenProcess access to our process from PID: 20412, Process: Unknown, Access: 0x00000410
+21:43:23 ----------------------------------------------------------------------------------------------------
+21:43:23 [CheckSystemInformation] ClientVersion: UNI, SystemVersion: 6.2.9200, MemoryUsage: 25295/65454mb
+21:43:23 All anti-cheat hooks initialized successfully.
+21:43:23 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUNIV
+21:43:24 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: A30FD826, HackVersion: UNI, HardwareId: a72615a3d6c5ef84b7a99b81718938e7
+21:43:24 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 2, MacroProtect: 0 - 6, MemoryAddress: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+21:43:24 [HCDumpListRecv] Count: 0, MaxCount: 0
+21:43:24 [HCChecksumListRecv] Count: 0, MaxCount: 0
+21:43:24 [HCInternalListRecv] Count: 0, MaxCount: 0
+21:43:24 [HCWindowListRecv] Count: 0, MaxCount: 0
+21:43:25 [EntryProc] DumpListMaxCount: 0, ChecksumListMaxCount: 0, InternalListMaxCount: 0, WindowListMaxCount: 0
+21:43:25 Blocked NtOpenProcess attempt to access our process (PID: 32372) with access rights: 0x00000410
+21:43:25 Prevented OpenProcess access to our process from PID: 32372, Process: Unknown, Access: 0x00000410
+21:43:27 [EntryProc] Initialization successful
+21:43:27 Blocked NtOpenProcess attempt to access our process (PID: 32372) with access rights: 0x00000410
+21:43:27 Prevented OpenProcess access to our process from PID: 32372, Process: Unknown, Access: 0x00000410
+21:43:27 Blocked NtOpenProcess attempt to access our process (PID: 32372) with access rights: 0x00000410
+21:43:27 Prevented OpenProcess access to our process from PID: 32372, Process: Unknown, Access: 0x00000410
+21:43:27 Blocked NtOpenProcess attempt to access our process (PID: 32372) with access rights: 0x00000410
+21:43:27 Prevented OpenProcess access to our process from PID: 32372, Process: Unknown, Access: 0x00000410
+21:43:27 Blocked NtOpenProcess attempt to access our process (PID: 32372) with access rights: 0x00000410
+21:43:27 Prevented OpenProcess access to our process from PID: 32372, Process: Unknown, Access: 0x00000410
+21:48:26 Blocked NtOpenProcess attempt to access our process (PID: 32372) with access rights: 0x00000410
+21:48:26 Prevented OpenProcess access to our process from PID: 32372, Process: Unknown, Access: 0x00000410
+21:53:28 Blocked NtOpenProcess attempt to access our process (PID: 32372) with access rights: 0x00000410
+21:53:28 Prevented OpenProcess access to our process from PID: 32372, Process: Unknown, Access: 0x00000410
+21:58:29 Blocked NtOpenProcess attempt to access our process (PID: 32372) with access rights: 0x00000410
+21:58:29 Prevented OpenProcess access to our process from PID: 32372, Process: Unknown, Access: 0x00000410
+22:03:30 Blocked NtOpenProcess attempt to access our process (PID: 32372) with access rights: 0x00000410
+22:03:30 Prevented OpenProcess access to our process from PID: 32372, Process: Unknown, Access: 0x00000410
+22:08:32 Blocked NtOpenProcess attempt to access our process (PID: 32372) with access rights: 0x00000410
+22:08:32 Prevented OpenProcess access to our process from PID: 32372, Process: Unknown, Access: 0x00000410
+22:13:33 Blocked NtOpenProcess attempt to access our process (PID: 32372) with access rights: 0x00000410
+22:13:33 Prevented OpenProcess access to our process from PID: 32372, Process: Unknown, Access: 0x00000410
+22:18:35 Blocked NtOpenProcess attempt to access our process (PID: 32372) with access rights: 0x00000410
+22:18:35 Prevented OpenProcess access to our process from PID: 32372, Process: Unknown, Access: 0x00000410
+22:23:36 Blocked NtOpenProcess attempt to access our process (PID: 32372) with access rights: 0x00000410
+22:23:36 Prevented OpenProcess access to our process from PID: 32372, Process: Unknown, Access: 0x00000410
